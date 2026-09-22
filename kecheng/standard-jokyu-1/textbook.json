@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 3,
+  "id": "standard-jokyu-1",
+  "title": "新标准日本语 高级上",
+  "category": "标准日本语",
+  "description": "",
+  "cover": "",
+  "totalLessons": 12,
+  "lessons": [
+    {
+      "id": "standard-jokyu-1:lesson-01",
+      "number": 1,
+      "title": "食",
+      "path": "lessons/lesson-01.json"
+    },
+    {
+      "id": "standard-jokyu-1:lesson-02",
+      "number": 2,
+      "title": "習慣",
+      "path": "lessons/lesson-02.json"
+    },
+    {
+      "id": "standard-jokyu-1:lesson-03",
+      "number": 3,
+      "title": "衣服",
+      "path": "lessons/lesson-03.json"
+    },
+    {
+      "id": "standard-jokyu-1:lesson-04",
+      "number": 4,
+      "title": "営業",
+      "path": "lessons/lesson-04.json"
+    },
+    {
+      "id": "standard-jokyu-1:lesson-05",
+      "number": 5,
+      "title": "芸術",
+      "path": "lessons/lesson-05.json"
+    },
+    {
+      "id": "standard-jokyu-1:lesson-06",
+      "number": 6,
+      "title": "音楽",
+      "path": "lessons/lesson-06.json"
+    },
+    {
+      "id": "standard-jokyu-1:lesson-07",
+      "number": 7,
+      "title": "スポーツ",
+      "path": "lessons/lesson-07.json"
+    },
+    {
+      "id": "standard-jokyu-1:lesson-08",
+      "number": 8,
+      "title": "メセナ",
+      "path": "lessons/lesson-08.json"
+    },
+    {
+      "id": "standard-jokyu-1:lesson-09",
+      "number": 9,
+      "title": "自然災害",
+      "path": "lessons/lesson-09.json"
+    },
+    {
+      "id": "standard-jokyu-1:lesson-10",
+      "number": 10,
+      "title": "資源",
+      "path": "lessons/lesson-10.json"
+    },
+    {
+      "id": "standard-jokyu-1:lesson-11",
+      "number": 11,
+      "title": "エネルギー",
+      "path": "lessons/lesson-11.json"
+    },
+    {
+      "id": "standard-jokyu-1:lesson-12",
+      "number": 12,
+      "title": "CSR",
+      "path": "lessons/lesson-12.json"
+    }
+  ]
+}
