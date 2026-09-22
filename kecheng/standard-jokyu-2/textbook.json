@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 3,
+  "id": "standard-jokyu-2",
+  "title": "新标准日本语 高级下",
+  "category": "标准日本语",
+  "description": "",
+  "cover": "",
+  "totalLessons": 12,
+  "lessons": [
+    {
+      "id": "standard-jokyu-2:lesson-13",
+      "number": 13,
+      "title": "高齢化",
+      "path": "lessons/lesson-13.json"
+    },
+    {
+      "id": "standard-jokyu-2:lesson-14",
+      "number": 14,
+      "title": "政治",
+      "path": "lessons/lesson-14.json"
+    },
+    {
+      "id": "standard-jokyu-2:lesson-15",
+      "number": 15,
+      "title": "家事",
+      "path": "lessons/lesson-15.json"
+    },
+    {
+      "id": "standard-jokyu-2:lesson-16",
+      "number": 16,
+      "title": "雇用",
+      "path": "lessons/lesson-16.json"
+    },
+    {
+      "id": "standard-jokyu-2:lesson-17",
+      "number": 17,
+      "title": "技術",
+      "path": "lessons/lesson-17.json"
+    },
+    {
+      "id": "standard-jokyu-2:lesson-18",
+      "number": 18,
+      "title": "医療",
+      "path": "lessons/lesson-18.json"
+    },
+    {
+      "id": "standard-jokyu-2:lesson-19",
+      "number": 19,
+      "title": "科学",
+      "path": "lessons/lesson-19.json"
+    },
+    {
+      "id": "standard-jokyu-2:lesson-20",
+      "number": 20,
+      "title": "開発",
+      "path": "lessons/lesson-20.json"
+    },
+    {
+      "id": "standard-jokyu-2:lesson-21",
+      "number": 21,
+      "title": "歴史的交流",
+      "path": "lessons/lesson-21.json"
+    },
+    {
+      "id": "standard-jokyu-2:lesson-22",
+      "number": 22,
+      "title": "自然保護",
+      "path": "lessons/lesson-22.json"
+    },
+    {
+      "id": "standard-jokyu-2:lesson-23",
+      "number": 23,
+      "title": "国際性",
+      "path": "lessons/lesson-23.json"
+    },
+    {
+      "id": "standard-jokyu-2:lesson-24",
+      "number": 24,
+      "title": "フィランソロピー",
+      "path": "lessons/lesson-24.json"
+    }
+  ]
+}

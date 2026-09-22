@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 3,
+  "id": "standard-shokyu-2",
+  "title": "新标准日本语 初级下",
+  "category": "标准日本语",
+  "description": "",
+  "cover": "",
+  "totalLessons": 24,
+  "lessons": [
+    {
+      "id": "standard-shokyu-2:lesson-25",
+      "number": 25,
+      "title": "北京市街へ",
+      "path": "lessons/lesson-25.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-26",
+      "number": 26,
+      "title": "握手とお辞儀",
+      "path": "lessons/lesson-26.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-27",
+      "number": 27,
+      "title": "朝の公園",
+      "path": "lessons/lesson-27.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-28",
+      "number": 28,
+      "title": "森さんの新居",
+      "path": "lessons/lesson-28.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-29",
+      "number": 29,
+      "title": "カラオケ",
+      "path": "lessons/lesson-29.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-30",
+      "number": 30,
+      "title": "春のピクニック",
+      "path": "lessons/lesson-30.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-31",
+      "number": 31,
+      "title": "散歩",
+      "path": "lessons/lesson-31.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-32",
+      "number": 32,
+      "title": "連休",
+      "path": "lessons/lesson-32.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-33",
+      "number": 33,
+      "title": "再会",
+      "path": "lessons/lesson-33.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-34",
+      "number": 34,
+      "title": "北京ダック",
+      "path": "lessons/lesson-34.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-35",
+      "number": 35,
+      "title": "ホームパーティー",
+      "path": "lessons/lesson-35.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-36",
+      "number": 36,
+      "title": "北京の生活",
+      "path": "lessons/lesson-36.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-37",
+      "number": 37,
+      "title": "万里の長城",
+      "path": "lessons/lesson-37.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-38",
+      "number": 38,
+      "title": "胡同",
+      "path": "lessons/lesson-38.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-39",
+      "number": 39,
+      "title": "故宮",
+      "path": "lessons/lesson-39.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-40",
+      "number": 40,
+      "title": "京劇",
+      "path": "lessons/lesson-40.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-41",
+      "number": 41,
+      "title": "市場調査",
+      "path": "lessons/lesson-41.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-42",
+      "number": 42,
+      "title": "企画案",
+      "path": "lessons/lesson-42.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-43",
+      "number": 43,
+      "title": "プレゼンテーション",
+      "path": "lessons/lesson-43.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-44",
+      "number": 44,
+      "title": "売れ行き",
+      "path": "lessons/lesson-44.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-45",
+      "number": 45,
+      "title": "上海",
+      "path": "lessons/lesson-45.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-46",
+      "number": 46,
+      "title": "事務所探し",
+      "path": "lessons/lesson-46.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-47",
+      "number": 47,
+      "title": "社長の下見",
+      "path": "lessons/lesson-47.json"
+    },
+    {
+      "id": "standard-shokyu-2:lesson-48",
+      "number": 48,
+      "title": "上海事務所",
+      "path": "lessons/lesson-48.json"
+    }
+  ]
+}
