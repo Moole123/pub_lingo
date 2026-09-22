@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 3,
+  "id": "minna-shokyu-2",
+  "title": "大家的日语 初级2",
+  "category": "标准日本语",
+  "description": "",
+  "cover": "",
+  "totalLessons": 25,
+  "lessons": [
+    {
+      "id": "minna-shokyu-2:lesson-26",
+      "number": 26,
+      "title": "ごみはどこに出したらいいですか",
+      "path": "lessons/lesson-26.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-27",
+      "number": 27,
+      "title": "何でも作れるんですね",
+      "path": "lessons/lesson-27.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-28",
+      "number": 28,
+      "title": "出張も多いし、試験もあるし……",
+      "path": "lessons/lesson-28.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-29",
+      "number": 29,
+      "title": "忘れ物をしてしまったんです",
+      "path": "lessons/lesson-29.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-30",
+      "number": 30,
+      "title": "非常袋を準備しておかないと",
+      "path": "lessons/lesson-30.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-31",
+      "number": 31,
+      "title": "料理を習おうと思っています",
+      "path": "lessons/lesson-31.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-32",
+      "number": 32,
+      "title": "無理をしないほうがいいですよ",
+      "path": "lessons/lesson-32.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-33",
+      "number": 33,
+      "title": "これはどういう意味ですか",
+      "path": "lessons/lesson-33.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-34",
+      "number": 34,
+      "title": "わたしがしたとおりにしてください",
+      "path": "lessons/lesson-34.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-35",
+      "number": 35,
+      "title": "どこかいい所、ありませんか",
+      "path": "lessons/lesson-35.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-36",
+      "number": 36,
+      "title": "毎日運動するようにしています",
+      "path": "lessons/lesson-36.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-37",
+      "number": 37,
+      "title": "金閣寺は14世紀に建てられました",
+      "path": "lessons/lesson-37.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-38",
+      "number": 38,
+      "title": "片づけるのが好きなんです",
+      "path": "lessons/lesson-38.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-39",
+      "number": 39,
+      "title": "遅れて、すみません",
+      "path": "lessons/lesson-39.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-40",
+      "number": 40,
+      "title": "友達ができたかどうか、心配です",
+      "path": "lessons/lesson-40.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-41",
+      "number": 41,
+      "title": "ご結婚おめでとうございます",
+      "path": "lessons/lesson-41.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-42",
+      "number": 42,
+      "title": "ボーナスは何に使いますか",
+      "path": "lessons/lesson-42.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-43",
+      "number": 43,
+      "title": "毎日楽しそうです",
+      "path": "lessons/lesson-43.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-44",
+      "number": 44,
+      "title": "この写真みたいにしてください",
+      "path": "lessons/lesson-44.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-45",
+      "number": 45,
+      "title": "コースをまちがえた場合は、どうしたらいいですか",
+      "path": "lessons/lesson-45.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-46",
+      "number": 46,
+      "title": "先週直してもらったばかりなのに、また……",
+      "path": "lessons/lesson-46.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-47",
+      "number": 47,
+      "title": "婚約したそうです",
+      "path": "lessons/lesson-47.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-48",
+      "number": 48,
+      "title": "休ませていただけませんか",
+      "path": "lessons/lesson-48.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-49",
+      "number": 49,
+      "title": "よろしくお伝えください",
+      "path": "lessons/lesson-49.json"
+    },
+    {
+      "id": "minna-shokyu-2:lesson-50",
+      "number": 50,
+      "title": "心から感謝いたします",
+      "path": "lessons/lesson-50.json"
+    }
+  ]
+}
