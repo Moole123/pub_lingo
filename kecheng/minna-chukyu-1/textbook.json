@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 3,
+  "id": "minna-chukyu-1",
+  "title": "大家的日语 中级1",
+  "category": "标准日本语",
+  "description": "",
+  "cover": "",
+  "totalLessons": 12,
+  "lessons": [
+    {
+      "id": "minna-chukyu-1:lesson-01",
+      "number": 1,
+      "title": "お願いがあるんですが",
+      "path": "lessons/lesson-01.json"
+    },
+    {
+      "id": "minna-chukyu-1:lesson-02",
+      "number": 2,
+      "title": "何のことですか",
+      "path": "lessons/lesson-02.json"
+    },
+    {
+      "id": "minna-chukyu-1:lesson-03",
+      "number": 3,
+      "title": "遅れそうなんです",
+      "path": "lessons/lesson-03.json"
+    },
+    {
+      "id": "minna-chukyu-1:lesson-04",
+      "number": 4,
+      "title": "伝言、お願いできますか",
+      "path": "lessons/lesson-04.json"
+    },
+    {
+      "id": "minna-chukyu-1:lesson-05",
+      "number": 5,
+      "title": "どう行ったらいいでしょうか",
+      "path": "lessons/lesson-05.json"
+    },
+    {
+      "id": "minna-chukyu-1:lesson-06",
+      "number": 6,
+      "title": "行かせていただきたいんですが",
+      "path": "lessons/lesson-06.json"
+    },
+    {
+      "id": "minna-chukyu-1:lesson-07",
+      "number": 7,
+      "title": "楽しみにしてます・遠慮させてください",
+      "path": "lessons/lesson-07.json"
+    },
+    {
+      "id": "minna-chukyu-1:lesson-08",
+      "number": 8,
+      "title": "迷子になっちゃったんです",
+      "path": "lessons/lesson-08.json"
+    },
+    {
+      "id": "minna-chukyu-1:lesson-09",
+      "number": 9,
+      "title": "どこが違うんですか",
+      "path": "lessons/lesson-09.json"
+    },
+    {
+      "id": "minna-chukyu-1:lesson-10",
+      "number": 10,
+      "title": "そんなはずはありません",
+      "path": "lessons/lesson-10.json"
+    },
+    {
+      "id": "minna-chukyu-1:lesson-11",
+      "number": 11,
+      "title": "お勧めのところ、ありませんか",
+      "path": "lessons/lesson-11.json"
+    },
+    {
+      "id": "minna-chukyu-1:lesson-12",
+      "number": 12,
+      "title": "ご迷惑をかけてすみませんでした",
+      "path": "lessons/lesson-12.json"
+    }
+  ]
+}

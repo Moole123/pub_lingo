@@ -1,0 +1,798 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-16T13:03:29.188Z",
+  "source": {
+    "apkg": "书籍原文/皆の日本語中級 1/__1_.apkg",
+    "sha256": "fdbe2b358c0f3b4b63bb808d892505d7808591d039bfd552eb8ca44f552d24e3",
+    "deck": "大家的日语 中级1 词汇::12",
+    "noteType": "大家的日语 词汇"
+  },
+  "lesson": {
+    "id": "lesson-12",
+    "number": 12,
+    "title": "ご迷惑をかけてすみませんでした"
+  },
+  "count": 78,
+  "items": [
+    {
+      "index": 1,
+      "noteId": "1688126948077",
+      "japanese": "ぐっすり［〜眠る］",
+      "reading": "［〜ねむる］",
+      "meaning": "睡得香甜状［酣睡、熟睡］",
+      "meaningSource": "睡得香甜状［酣睡、熟睡］",
+      "audio": "audio/5c8009a0093e4c883efc55a43c6cd0b1ebfb18081571c4b8a91e0a68a7aa5890.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/001_%E3%81%90%E3%81%A3%E3%81%99%E3%82%8A%EF%BC%BB%E3%80%9C%E7%9C%A0%E3%82%8B%EF%BC%BD.mp3"
+    },
+    {
+      "index": 2,
+      "noteId": "1688126948076",
+      "japanese": "家事",
+      "reading": "かじ",
+      "meaning": "家务活",
+      "meaningSource": "家务活",
+      "audio": "audio/2616c0b4687aa914aa41b27bd14b89416281e99fcfae467b04e614e80f535f2f.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/002_%E5%AE%B6%E4%BA%8B.mp3"
+    },
+    {
+      "index": 3,
+      "noteId": "1688126948075",
+      "japanese": "温暖［な］",
+      "reading": "おんだん［な］",
+      "meaning": "温暖［的］",
+      "meaningSource": "温暖［的］",
+      "audio": "audio/a4317e4370dca0692b2473e1a1836fb5a13e7e79829294ffa7cc6c29761013ab.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/003_%E6%B8%A9%E6%9A%96%EF%BC%BB%E3%81%AA%EF%BC%BD.mp3"
+    },
+    {
+      "index": 4,
+      "noteId": "1688126948122",
+      "japanese": "気がつきませんでした。",
+      "reading": "",
+      "meaning": "（抱歉）我没注意到。",
+      "meaningSource": "（抱歉）我没注意到。",
+      "audio": "audio/812f43912db6f94b8cc8980cf41727259ff2777c173254a4c514f15aab997858.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/004_%E6%B0%97%E3%81%8C%E3%81%A4%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F%E3%80%82.mp3"
+    },
+    {
+      "index": 5,
+      "noteId": "1688126948065",
+      "japanese": "夜中",
+      "reading": "よなか",
+      "meaning": "半夜",
+      "meaningSource": "半夜",
+      "audio": "audio/f3c953c9a14f945653478284d3aac634ce4b81c5621d0099987492bea6e77bac.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/005_%E5%A4%9C%E4%B8%AD.mp3"
+    },
+    {
+      "index": 6,
+      "noteId": "1688126948118",
+      "japanese": "発車ベル",
+      "reading": "はっしゃベル",
+      "meaning": "发车铃",
+      "meaningSource": "发车铃",
+      "audio": "audio/25c9205a854a0e6c4c338f48d7b10546b6fcd0a7049a2a00e674340c91f98127.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/006_%E7%99%BA%E8%BB%8A%E3%83%99%E3%83%AB.mp3"
+    },
+    {
+      "index": 7,
+      "noteId": "1688126948086",
+      "japanese": "どうしても",
+      "reading": "",
+      "meaning": "怎么也……",
+      "meaningSource": "怎么也……",
+      "audio": "audio/c2540acd91c2bd6ad7fdec8e518e4bfb611f70ee9f799f9fc7541bc6f883869d.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/007_%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6%E3%82%82.mp3"
+    },
+    {
+      "index": 8,
+      "noteId": "1688126948057",
+      "japanese": "犯人",
+      "reading": "はんにん",
+      "meaning": "犯人",
+      "meaningSource": "犯人",
+      "audio": "audio/f842b090f3d19b37c6f1c14a19ceba68231ccf7adb4e3e4016565ee530d62c7b.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/008_%E7%8A%AF%E4%BA%BA.mp3"
+    },
+    {
+      "index": 9,
+      "noteId": "1688126948082",
+      "japanese": "苦情",
+      "reading": "くじょう",
+      "meaning": "意见、抱怨、不满",
+      "meaningSource": "意见、抱怨、不满",
+      "audio": "audio/8014ace70aced8f52f2f4172fe6c1d228d22e2e158298a49d3f19c4e0cd746f8.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/009_%E8%8B%A6%E6%83%85.mp3"
+    },
+    {
+      "index": 10,
+      "noteId": "1688126948068",
+      "japanese": "暮らす",
+      "reading": "くらす",
+      "meaning": "过日子、生活",
+      "meaningSource": "过日子、生活",
+      "audio": "audio/028ee7f098c8b45f510189f49d9979c9704788e42654f5ee4f7f50e5c8acc23a.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/010_%E6%9A%AE%E3%82%89%E3%81%99.mp3"
+    },
+    {
+      "index": 11,
+      "noteId": "1688126948107",
+      "japanese": "虫",
+      "reading": "むし",
+      "meaning": "虫",
+      "meaningSource": "虫",
+      "audio": "audio/8b4f12621d029b60e41b7bc04596bd84d19f7852d5f5d44f3ba5033554b268a1.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/011_%E8%99%AB.mp3"
+    },
+    {
+      "index": 12,
+      "noteId": "1688126948083",
+      "japanese": "遅く",
+      "reading": "おそく",
+      "meaning": "晚、迟",
+      "meaningSource": "晚、迟",
+      "audio": "audio/1c5301cf75d8c1c4fcbaa0257ba1f8583c4febfeb4215ff7b0b54b01986b1fcb.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/012_%E9%81%85%E3%81%8F.mp3"
+    },
+    {
+      "index": 13,
+      "noteId": "1688126948087",
+      "japanese": "自治会",
+      "reading": "じちかい",
+      "meaning": "自治会（街道办事处）",
+      "meaningSource": "自治会（街道办事处）",
+      "audio": "audio/9414119eb198d23e8336ce3bea1715cf9450bd15c26ea4b4608c064d808cc441.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/013_%E8%87%AA%E6%B2%BB%E4%BC%9A.mp3"
+    },
+    {
+      "index": 14,
+      "noteId": "1688126948060",
+      "japanese": "スープ",
+      "reading": "",
+      "meaning": "汤",
+      "meaningSource": "汤",
+      "audio": "audio/b06a36590ff65208f8cb7931e0aed4c0f7142212af2925304fcb5ced21620636.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/014_%E3%82%B9%E3%83%BC%E3%83%97.mp3"
+    },
+    {
+      "index": 15,
+      "noteId": "1688126948085",
+      "japanese": "あまり",
+      "reading": "",
+      "meaning": "过分、太……\n（〜遅い時間になると迷惑です。/太晚的话就添麻烦了。）",
+      "meaningSource": "过分、太……<br>（〜遅い時間になると迷惑です。/太晚的话就添麻烦了。）",
+      "audio": "audio/2bfd5cbeb398099f2df36a4d3f0553b97e80ef9748b3dc6d3da3c0d73c8a1e24.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/015_%E3%81%82%E3%81%BE%E3%82%8A.mp3"
+    },
+    {
+      "index": 16,
+      "noteId": "1688126948096",
+      "japanese": "分かれる",
+      "reading": "わかれる",
+      "meaning": "分歧\n［意見が〜］\n［いけんが〜］\n［意见分歧］",
+      "meaningSource": "分歧<br>［意見が〜］<br>［いけんが〜］<br>［意见分歧］",
+      "audio": "audio/3abf4b10c96414ebfdcd3810d099cc7eba8891ba91ad2d6e8e12cec450224494.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/016_%E5%88%86%E3%81%8B%E3%82%8C%E3%82%8B.mp3"
+    },
+    {
+      "index": 17,
+      "noteId": "1688126948095",
+      "japanese": "アナウンス",
+      "reading": "",
+      "meaning": "播音、广播",
+      "meaningSource": "播音、广播",
+      "audio": "audio/3a4077d61555c50bf0baac2cc4747a114a43d9c9eb29588c8109a50d08e0d8e8.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/017_%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9.mp3"
+    },
+    {
+      "index": 18,
+      "noteId": "1688126948121",
+      "japanese": "コマーシャル",
+      "reading": "",
+      "meaning": "（电视、广播电台的）广告",
+      "meaningSource": "（电视、广播电台的）广告",
+      "audio": "audio/efc4b34e8d674d545ba3272f2f2f8fbc5e19f6d91281f73b6060db884ad7f392.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/018_%E3%82%B3%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB.mp3"
+    },
+    {
+      "index": 19,
+      "noteId": "1688126948074",
+      "japanese": "鳴る",
+      "reading": "なる",
+      "meaning": "响（時計が〜/钟表响）",
+      "meaningSource": "响（時計が〜/钟表响）",
+      "audio": "audio/cb2bcd793a0a5d866b751ef71fcfb9598f020ac2aa601e3c9fecab600ad31119.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/019_%E9%B3%B4%E3%82%8B.mp3"
+    },
+    {
+      "index": 20,
+      "noteId": "1688126948088",
+      "japanese": "役員",
+      "reading": "やくいん",
+      "meaning": "负责人",
+      "meaningSource": "负责人",
+      "audio": "audio/510e9ace41026fec12d6577f7daa3f00da6c0cd1a75b3020a09e7e823112b255.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/020_%E5%BD%B9%E5%93%A1.mp3"
+    },
+    {
+      "index": 21,
+      "noteId": "1688126948081",
+      "japanese": "乗り遅れる",
+      "reading": "のりおくれる",
+      "meaning": "赶不上（電車に〜/赶不上电车）",
+      "meaningSource": "赶不上（電車に〜/赶不上电车）",
+      "audio": "audio/84487a315c9c298353fc3b5fffe8207c3439e06491b0e9d103a222ab89574126.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/021_%E4%B9%97%E3%82%8A%E9%81%85%E3%82%8C%E3%82%8B.mp3"
+    },
+    {
+      "index": 22,
+      "noteId": "1688126948054",
+      "japanese": "演奏会",
+      "reading": "えんそうかい",
+      "meaning": "演奏会",
+      "meaningSource": "演奏会",
+      "audio": "audio/866436cd8440e0eeedd441a2c4f70044ce7131cc8bf046418b6885b10069d50b.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/022_%E6%BC%94%E5%A5%8F%E4%BC%9A.mp3"
+    },
+    {
+      "index": 23,
+      "noteId": "1688126948080",
+      "japanese": "風邪薬",
+      "reading": "かぜぐすり",
+      "meaning": "感冒药",
+      "meaningSource": "感冒药",
+      "audio": "audio/a9fa96955b2f5304b1a7a4a41cd3cfe91d5a19830fa405d4278387dae61b464a.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/023_%E9%A2%A8%E9%82%AA%E8%96%AC.mp3"
+    },
+    {
+      "index": 24,
+      "noteId": "1688126948066",
+      "japanese": "日",
+      "reading": "ひ",
+      "meaning": "太阳光、阳光",
+      "meaningSource": "太阳光、阳光",
+      "audio": "audio/2be9fe1a52bf85d05c4fa694de34349c9c9eda1601825dfe51f9d52bfc450d52.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/024_%E6%97%A5.mp3"
+    },
+    {
+      "index": 25,
+      "noteId": "1688126948123",
+      "japanese": "どうしても……",
+      "reading": "",
+      "meaning": "无论如何……\n表示在充分讨论各种情况之后得出的判断，传达不可能、难以办到的心情。",
+      "meaningSource": "无论如何……<br>表示在充分讨论各种情况之后得出的判断，传达不可能、难以办到的心情。",
+      "audio": "audio/23b6e331a3c44aaf3f33470ff5e709f7c1f2cff8779cb792cad275e37f6f9b2b.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/025_%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6%E3%82%82%E2%80%A6%E2%80%A6.mp3"
+    },
+    {
+      "index": 26,
+      "noteId": "1688126948055",
+      "japanese": "報告書",
+      "reading": "ほうこくしょ",
+      "meaning": "报告书",
+      "meaningSource": "报告书",
+      "audio": "audio/fd72e11ad1aeaf08170876a84873933066bf193b073b23694442f0a9b71bf26f.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/026_%E5%A0%B1%E5%91%8A%E6%9B%B8.mp3"
+    },
+    {
+      "index": 27,
+      "noteId": "1688126948056",
+      "japanese": "あくび",
+      "reading": "",
+      "meaning": "哈欠",
+      "meaningSource": "哈欠",
+      "audio": "audio/2b71a29a821b98464335a2ff2d607ece88008dd3469a0f5cb498c23ef9ae3229.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/027_%E3%81%82%E3%81%8F%E3%81%B3.mp3"
+    },
+    {
+      "index": 28,
+      "noteId": "1688126948058",
+      "japanese": "追いかける",
+      "reading": "おいかける",
+      "meaning": "追赶",
+      "meaningSource": "追赶",
+      "audio": "audio/21a5dbaf478d3f1688b7b15ff84712f1edc22a676e7fdca9a599d4d5a15db74f.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/028_%E8%BF%BD%E3%81%84%E3%81%8B%E3%81%91%E3%82%8B.mp3"
+    },
+    {
+      "index": 29,
+      "noteId": "1688126948059",
+      "japanese": "作業",
+      "reading": "さぎょう",
+      "meaning": "工作、作业",
+      "meaningSource": "工作、作业",
+      "audio": "audio/e639ea56b376947aff99e786fec0042c5f8d663169bdee6711d18d60cdaa98d1.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/029_%E4%BD%9C%E6%A5%AD.mp3"
+    },
+    {
+      "index": 30,
+      "noteId": "1688126948061",
+      "japanese": "こばす",
+      "reading": "",
+      "meaning": "撒、洒落、洒",
+      "meaningSource": "撒、洒落、洒",
+      "audio": "audio/87c4a2cea82f442145834f7de40ea5834159c26b620705cb5f52ebcc6d3ee8f0.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/030_%E3%81%93%E3%81%B0%E3%81%99.mp3"
+    },
+    {
+      "index": 31,
+      "noteId": "1688126948062",
+      "japanese": "シャッター",
+      "reading": "",
+      "meaning": "金属卷帘门",
+      "meaningSource": "金属卷帘门",
+      "audio": "audio/2dd89d5c89a09dca09712b35ff29055f94327b468bd9e9dcfb19fb7e888a90eb.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/031_%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC.mp3"
+    },
+    {
+      "index": 32,
+      "noteId": "1688126948063",
+      "japanese": "スプレー",
+      "reading": "",
+      "meaning": "颜料等的喷雾器",
+      "meaningSource": "颜料等的喷雾器",
+      "audio": "audio/4f874e3aa12da099305c5dd72638e131b978f2d00e5a04a24d1c1ca2f0288767.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/032_%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC.mp3"
+    },
+    {
+      "index": 33,
+      "noteId": "1688126948064",
+      "japanese": "落書きする",
+      "reading": "らくがきする",
+      "meaning": "乱涂乱画、涂鸦",
+      "meaningSource": "乱涂乱画、涂鸦",
+      "audio": "audio/263105441cf7d0772de28f6144834a8303a6d2f83e314f250e30058a4934fd4c.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/033_%E8%90%BD%E6%9B%B8%E3%81%8D%E3%81%99%E3%82%8B.mp3"
+    },
+    {
+      "index": 34,
+      "noteId": "1688126948067",
+      "japanese": "当たる［日が〜］",
+      "reading": "あたる［ひが〜］",
+      "meaning": "照［照到太阳］",
+      "meaningSource": "照［照到太阳］",
+      "audio": "audio/eb40bcd894b1b9deccc0cf3f38e46faf84432054c72287618bc8f9413d86a150.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/034_%E5%BD%93%E3%81%9F%E3%82%8B%EF%BC%BB%E6%97%A5%E3%81%8C%E3%80%9C%EF%BC%BD.mp3"
+    },
+    {
+      "index": 35,
+      "noteId": "1688126948069",
+      "japanese": "書道",
+      "reading": "しょどう",
+      "meaning": "书法",
+      "meaningSource": "书法",
+      "audio": "audio/c9c172907eca3d8f2dac449ff1b54f06a0a4c099e7dbc8cc171f91d2010d8120.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/035_%E6%9B%B8%E9%81%93.mp3"
+    },
+    {
+      "index": 36,
+      "noteId": "1688126948070",
+      "japanese": "蛍光灯",
+      "reading": "けいこうとう",
+      "meaning": "日光灯",
+      "meaningSource": "日光灯",
+      "audio": "audio/04da017633e5decdf530cc2ec95591d090027bb8eeae72fdda2cd1bbc2697d41.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/036_%E8%9B%8D%E5%85%89%E7%81%AF.mp3"
+    },
+    {
+      "index": 37,
+      "noteId": "1688126948071",
+      "japanese": "メニュー",
+      "reading": "",
+      "meaning": "菜单",
+      "meaningSource": "菜单",
+      "audio": "audio/495855963ff03ddcffeec22b6fed1b0078fec8af9e6fbaaeda974e9e85adf022.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/037_%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC.mp3"
+    },
+    {
+      "index": 38,
+      "noteId": "1688126948072",
+      "japanese": "バイク",
+      "reading": "",
+      "meaning": "摩托车",
+      "meaningSource": "摩托车",
+      "audio": "audio/b7f96c518ecfd532891dce2290375055ea89984a4ff9e71edb9fe81899187fd1.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/038_%E3%83%90%E3%82%A4%E3%82%AF.mp3"
+    },
+    {
+      "index": 39,
+      "noteId": "1688126948073",
+      "japanese": "目覚まし時計",
+      "reading": "めざましどけい",
+      "meaning": "闹钟",
+      "meaningSource": "闹钟",
+      "audio": "audio/ae05e7739324c5529f078d44d8b3f96faf61feddd2d4e1f4d1f48876a4a98a4a.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/039_%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88.mp3"
+    },
+    {
+      "index": 40,
+      "noteId": "1688126948078",
+      "japanese": "迷惑",
+      "reading": "めいわく",
+      "meaning": "麻烦、烦忧、打扰",
+      "meaningSource": "麻烦、烦忧、打扰",
+      "audio": "audio/8eda37c1ebfdab48c89da592734a3ea87ffda38c301c322f5c68d7c50cefa74f.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/040_%E8%BF%B7%E6%83%91.mp3"
+    },
+    {
+      "index": 41,
+      "noteId": "1688126948079",
+      "japanese": "かける［迷惑を〜］",
+      "reading": "［めいわくを〜］",
+      "meaning": "添加［添麻烦］",
+      "meaningSource": "添加［添麻烦］",
+      "audio": "audio/dd4219873ae997f8c343ca9c9dcd5bdc80c8694de9716f240490c7dc59d08b25.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/041_%E3%81%8B%E3%81%91%E3%82%8B%EF%BC%BB%E8%BF%B7%E6%83%91%E3%82%92%E3%80%9C%EF%BC%BD.mp3"
+    },
+    {
+      "index": 42,
+      "noteId": "1688126948084",
+      "japanese": "［お］帰り",
+      "reading": "［お］かえり",
+      "meaning": "回家、回来（的时间）",
+      "meaningSource": "回家、回来（的时间）",
+      "audio": "audio/605110880d9240135d4a8d4c50b969db50c4495512aca6571a431046d95b9f7b.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/042_%EF%BC%BB%E3%81%8A%EF%BC%BD%E5%B8%B0%E3%82%8A.mp3"
+    },
+    {
+      "index": 43,
+      "noteId": "1688126948089",
+      "japanese": "DVD",
+      "reading": "ディーブイディー",
+      "meaning": "DVD",
+      "meaningSource": "DVD",
+      "audio": "audio/6770bd8590dcd9ac7fdfee6a9a99a0ce0da6332d513d8ba9d099327cf5ee3b45.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/043_DVD.mp3"
+    },
+    {
+      "index": 44,
+      "noteId": "1688126948090",
+      "japanese": "座談会",
+      "reading": "ざだんかい",
+      "meaning": "座谈会",
+      "meaningSource": "座谈会",
+      "audio": "audio/56cb6c0ca9f0a3d3e3727ae1d7c42f12a03971e74ba7ced0ccc03e3558a2b4ff.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/044_%E5%BA%A7%E8%AB%87%E4%BC%9A.mp3"
+    },
+    {
+      "index": 45,
+      "noteId": "1688126948091",
+      "japanese": "カルチャーショック",
+      "reading": "",
+      "meaning": "文化冲击",
+      "meaningSource": "文化冲击",
+      "audio": "audio/da80a79dff9955b6162852dd94e4849b6d9e1226de047bd585d63c9f610b0232.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/045_%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF.mp3"
+    },
+    {
+      "index": 46,
+      "noteId": "1688126948092",
+      "japanese": "受ける",
+      "reading": "うける",
+      "meaning": "受、受到\n［ショックを〜］\n［受到冲击］",
+      "meaningSource": "受、受到<br>［ショックを〜］<br>［受到冲击］",
+      "audio": "audio/20cd3270c2013c4332be5a892cf75f3b076a401a8f95b02da757639ec89209fb.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/046_%E5%8F%97%E3%81%91%E3%82%8B.mp3"
+    },
+    {
+      "index": 47,
+      "noteId": "1688126948093",
+      "japanese": "それまで",
+      "reading": "",
+      "meaning": "直到那时",
+      "meaningSource": "直到那时",
+      "audio": "audio/ab64be33b2814cef5c40128a59918f1ef0f2a30a7f57ceb4868e0bb287d7966f.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/047_%E3%81%9D%E3%82%8C%E3%81%BE%E3%81%A7.mp3"
+    },
+    {
+      "index": 48,
+      "noteId": "1688126948094",
+      "japanese": "騒々しい",
+      "reading": "そうぞうしい",
+      "meaning": "嘈杂、吵闹",
+      "meaningSource": "嘈杂、吵闹",
+      "audio": "audio/355fdf28c51640bea914fde01db6d875c19ba50f7433dcc94ac7dae4d547b4d9.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/048_%E9%A8%92%E3%80%85%E3%81%97%E3%81%84.mp3"
+    },
+    {
+      "index": 49,
+      "noteId": "1688126948097",
+      "japanese": "奥様",
+      "reading": "おくさま",
+      "meaning": "夫人",
+      "meaningSource": "夫人",
+      "audio": "audio/4799b80ef1e1535155cdd91521cc0b286a2cb80a0d8083a10af8b5af4c3187ef.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/049_%E5%A5%A5%E6%A7%98.mp3"
+    },
+    {
+      "index": 50,
+      "noteId": "1688126948098",
+      "japanese": "おいでいただく",
+      "reading": "",
+      "meaning": "光临",
+      "meaningSource": "光临",
+      "audio": "audio/e4e502697a2ff565239c7fba7933c40fef1ff9f4e7455289c345b3e6efb2bf38.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/050_%E3%81%8A%E3%81%84%E3%81%A7%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8F.mp3"
+    },
+    {
+      "index": 51,
+      "noteId": "1688126948099",
+      "japanese": "苦労",
+      "reading": "くろう",
+      "meaning": "辛苦",
+      "meaningSource": "辛苦",
+      "audio": "audio/c0cb56e94fb7b4ff5a845f2d8fd591cc61b419f80a58a0af023b062a28728aec.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/051_%E8%8B%A6%E5%8A%B4.mp3"
+    },
+    {
+      "index": 52,
+      "noteId": "1688126948100",
+      "japanese": "中略",
+      "reading": "ちゅうりゃく",
+      "meaning": "中间省略",
+      "meaningSource": "中间省略",
+      "audio": "audio/778c6005569befada74c686ac9be863ea1c63317369c88f814c0e82a0dfeb2ac.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/052_%E4%B8%AD%E7%95%A5.mp3"
+    },
+    {
+      "index": 53,
+      "noteId": "1688126948101",
+      "japanese": "おかしな",
+      "reading": "",
+      "meaning": "奇怪、滑稽、可笑",
+      "meaningSource": "奇怪、滑稽、可笑",
+      "audio": "audio/cd9d104c8e6ed0c0de962ad09a274e6d1ba41aee65fba1b0feb8653f20deec70.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/053_%E3%81%8A%E3%81%8B%E3%81%97%E3%81%AA.mp3"
+    },
+    {
+      "index": 54,
+      "noteId": "1688126948102",
+      "japanese": "サンダル",
+      "reading": "",
+      "meaning": "凉鞋",
+      "meaningSource": "凉鞋",
+      "audio": "audio/283a20a679feb214bb35231a423d7d4a70b999eb7597356b61902f44ac2f5feb.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/054_%E3%82%B5%E3%83%B3%E3%83%80%E3%83%AB.mp3"
+    },
+    {
+      "index": 55,
+      "noteId": "1688126948103",
+      "japanese": "ビービー",
+      "reading": "",
+      "meaning": "水烧开时水壶的哨音",
+      "meaningSource": "水烧开时水壶的哨音",
+      "audio": "audio/f167246f364de7cb66ce1f4642879ae6f10112a2cb72f44fd4672945e5a2534d.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/055_%E3%83%93%E3%83%BC%E3%83%93%E3%83%BC.mp3"
+    },
+    {
+      "index": 56,
+      "noteId": "1688126948104",
+      "japanese": "たまらない",
+      "reading": "",
+      "meaning": "〜得不得了（以「て〜」的形式来使用）",
+      "meaningSource": "〜得不得了（以「て〜」的形式来使用）",
+      "audio": "audio/cc238b378644915c8c696a9c2fbf65983c10a5af0d93709ed60c8dcabfe60eca.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/056_%E3%81%9F%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84.mp3"
+    },
+    {
+      "index": 57,
+      "noteId": "1688126948105",
+      "japanese": "都会",
+      "reading": "とかい",
+      "meaning": "都市",
+      "meaningSource": "都市",
+      "audio": "audio/9d07ddf6c2399ff5edb9bc28ea897b447187bb29b9ed0900f75ff8781db58c2f.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/057_%E9%83%BD%E4%BC%9A.mp3"
+    },
+    {
+      "index": 58,
+      "noteId": "1688126948106",
+      "japanese": "住宅地",
+      "reading": "じゅうたくち",
+      "meaning": "住宅区",
+      "meaningSource": "住宅区",
+      "audio": "audio/c326814a7d31fbcf27e7e2dcd0639c60c6969e0c1a0f103257f8da27f82522b8.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/058_%E4%BD%8F%E5%AE%85%E5%9C%B0.mp3"
+    },
+    {
+      "index": 59,
+      "noteId": "1688126948108",
+      "japanese": "虫の音",
+      "reading": "むしのね",
+      "meaning": "虫鸣声",
+      "meaningSource": "虫鸣声",
+      "audio": "audio/36af77d9214d73355fac3960c95818a2d9ffce5aea7a37025ce7089ac5a4feee.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/059_%E8%99%AB%E3%81%AE%E9%9F%B3.mp3"
+    },
+    {
+      "index": 60,
+      "noteId": "1688126948109",
+      "japanese": "車内",
+      "reading": "しゃない",
+      "meaning": "电车里",
+      "meaningSource": "电车里",
+      "audio": "audio/f51578c17e3eaec60f6062b0ce352d71655879a1dc4ccb461eb12335ca5dcaf0.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/060_%E8%BB%8A%E5%86%85.mp3"
+    },
+    {
+      "index": 61,
+      "noteId": "1688126948110",
+      "japanese": "ホーム",
+      "reading": "",
+      "meaning": "站台（駅の〜/车站的站台）",
+      "meaningSource": "站台（駅の〜/车站的站台）",
+      "audio": "audio/0cd032bed82d17e0aad4f81d98a208028a8ece023338e0fabf22c69f00160eaa.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/061_%E3%83%9B%E3%83%BC%E3%83%A0.mp3"
+    },
+    {
+      "index": 62,
+      "noteId": "1688126948111",
+      "japanese": "加える",
+      "reading": "くわえる",
+      "meaning": "附加、追加",
+      "meaningSource": "附加、追加",
+      "audio": "audio/bc43dc4200c6d56d4dc6fee580b43307a6dad4830d7a15efa9383285975d3bd5.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/062_%E5%8A%A0%E3%81%88%E3%82%8B.mp3"
+    },
+    {
+      "index": 63,
+      "noteId": "1688126948112",
+      "japanese": "さっぱり［〜ない］",
+      "reading": "",
+      "meaning": "一点、完全、丝毫［不〜］（跟否定句一起相呼应使用）",
+      "meaningSource": "一点、完全、丝毫［不〜］（跟否定句一起相呼应使用）",
+      "audio": "audio/1bd24cbea9cfb7f4ef4424910bef49e050e77b4167c73c20d89ca026c473ccd8.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/063_%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%EF%BC%BB%E3%80%9C%E3%81%AA%E3%81%84%EF%BC%BD.mp3"
+    },
+    {
+      "index": 64,
+      "noteId": "1688126948113",
+      "japanese": "乗客",
+      "reading": "じょうきゃく",
+      "meaning": "乘客、旅客",
+      "meaningSource": "乘客、旅客",
+      "audio": "audio/a804b85e185bb7e053ddb0f3362ee6aa89ae5cd9050f25c2521da6e4aec66019.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/064_%E4%B9%97%E5%AE%A2.mp3"
+    },
+    {
+      "index": 65,
+      "noteId": "1688126948114",
+      "japanese": "安全性",
+      "reading": "あんぜんせい",
+      "meaning": "安全性",
+      "meaningSource": "安全性",
+      "audio": "audio/095c288ca57970ddcc5b49c71e0e564f3ac48b40a6bb02c71471ec2ec4875330.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/065_%E5%AE%89%E5%85%A8%E6%80%A7.mp3"
+    },
+    {
+      "index": 66,
+      "noteId": "1688126948115",
+      "japanese": "配慮する",
+      "reading": "はいりょする",
+      "meaning": "考虑（安全性に〜/从安全上考虑）",
+      "meaningSource": "考虑（安全性に〜/从安全上考虑）",
+      "audio": "audio/39b605d7e564a57c1bb48740729044da122da9d7c0acf8ade3f7dd45e518f87a.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/066_%E9%85%8D%E6%85%AE%E3%81%99%E3%82%8B.mp3"
+    },
+    {
+      "index": 67,
+      "noteId": "1688126948116",
+      "japanese": "含む",
+      "reading": "ふくむ",
+      "meaning": "包含、包括",
+      "meaningSource": "包含、包括",
+      "audio": "audio/8147254b5e7af935f3db9c9cea3dc10588499fb0f527d6b404e92fae0b59d42e.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/067_%E5%90%AB%E3%82%80.mp3"
+    },
+    {
+      "index": 68,
+      "noteId": "1688126948117",
+      "japanese": "チャイム",
+      "reading": "",
+      "meaning": "音乐铃声",
+      "meaningSource": "音乐铃声",
+      "audio": "audio/8c04c9ffbd305c5893a0e835a11250d2b2061a9cd0e8be36291ed4c5718a4900.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/068_%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0.mp3"
+    },
+    {
+      "index": 69,
+      "noteId": "1688126948119",
+      "japanese": "必ずしも［〜ない］",
+      "reading": "かならずしも［〜ない］",
+      "meaning": "未必、不一定（跟否定句一起相呼应使用）",
+      "meaningSource": "未必、不一定（跟否定句一起相呼应使用）",
+      "audio": "audio/7ec24dc42e3b6b7f7271849a680f6098785e989360eff1bbb636905841da97a6.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/069_%E5%BF%85%E3%81%9A%E3%81%97%E3%82%82%EF%BC%BB%E3%80%9C%E3%81%AA%E3%81%84%EF%BC%BD.mp3"
+    },
+    {
+      "index": 70,
+      "noteId": "1688126948120",
+      "japanese": "近所づきあい",
+      "reading": "きんじょづきあい",
+      "meaning": "邻居相处、邻里关系",
+      "meaningSource": "邻居相处、邻里关系",
+      "audio": "audio/71817c8af7b324956c606509d875b333cfffb26afd2ce81ee5155fcb94552633.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/070_%E8%BF%91%E6%89%80%E3%81%A5%E3%81%8D%E3%81%82%E3%81%84.mp3"
+    },
+    {
+      "index": 71,
+      "noteId": "1688126948124",
+      "japanese": "それはわかりますけど、……",
+      "reading": "",
+      "meaning": "这点我了解（清楚），可……\n表示理解对方的处境，但仍然感到难办。",
+      "meaningSource": "这点我了解（清楚），可……<br>表示理解对方的处境，但仍然感到难办。",
+      "audio": "audio/84106ee163a21111b5d7c707510f2fd5bb75313d6902f6e7e325b59d3a0d54aa.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/071_%E3%81%9D%E3%82%8C%E3%81%AF%E3%82%8F%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%81%91%E3%81%A9%E3%80%81%E2%80%A6%E2%80%A6.mp3"
+    },
+    {
+      "index": 72,
+      "noteId": "1688126948125",
+      "japanese": "どちらかと言えば……",
+      "reading": "",
+      "meaning": "让我来比较的话……",
+      "meaningSource": "让我来比较的话……",
+      "audio": "audio/9b85e2f2050e12d180db80b7dc0d6802ac330daf479f46c9411a4e9d49adda20.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/072_%E3%81%A9%E3%81%A1%E3%82%89%E3%81%8B%E3%81%A8%E8%A8%80%E3%81%88%E3%81%B0%E2%80%A6%E2%80%A6.mp3"
+    },
+    {
+      "index": 73,
+      "noteId": "1688126948126",
+      "japanese": "いい勉強になる",
+      "reading": "",
+      "meaning": "学到不少、受益匪浅",
+      "meaningSource": "学到不少、受益匪浅",
+      "audio": "audio/94709356f527c7f8875b08da152cce47099dfb4d35466f84701770c6da8b2315.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/073_%E3%81%84%E3%81%84%E5%8B%89%E5%BC%B7%E3%81%AB%E3%81%AA%E3%82%8B.mp3"
+    },
+    {
+      "index": 74,
+      "noteId": "1688126948127",
+      "japanese": "ハンガリー",
+      "reading": "",
+      "meaning": "匈牙利",
+      "meaningSource": "匈牙利",
+      "audio": "audio/81a9e092048b094d1d8afc81c7cf0611ac0a827a469a4c91bba55e79aacc4521.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/074_%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC.mp3"
+    },
+    {
+      "index": 75,
+      "noteId": "1688126948128",
+      "japanese": "ブダペスト",
+      "reading": "",
+      "meaning": "布达佩斯",
+      "meaningSource": "布达佩斯",
+      "audio": "audio/bc956ef5863002e3a32f8b8d63849ba0c6599ef876f1e82f207486d278efae33.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/075_%E3%83%96%E3%83%80%E3%83%9A%E3%82%B9%E3%83%88.mp3"
+    },
+    {
+      "index": 76,
+      "noteId": "1688126948129",
+      "japanese": "パンコク",
+      "reading": "",
+      "meaning": "曼谷",
+      "meaningSource": "曼谷",
+      "audio": "audio/a3d5acfbd529ac3bc479d15da02aea7a188addddcb6907a8c2e4c3e75cb40fce.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/076_%E3%83%91%E3%83%B3%E3%82%B3%E3%82%AF.mp3"
+    },
+    {
+      "index": 77,
+      "noteId": "1688126948130",
+      "japanese": "宇都宮",
+      "reading": "うつのみや",
+      "meaning": "宇都宫：位于日本的中部栃木县。是栃木县政厅所在地。",
+      "meaningSource": "宇都宫：位于日本的中部栃木县。是栃木县政厅所在地。",
+      "audio": "audio/e3b9bcac05f612e6f258f4f85f91d90736b29ce521170e894e93540760660c29.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/077_%E5%AE%87%E9%83%BD%E5%AE%AE.mp3"
+    },
+    {
+      "index": 78,
+      "noteId": "1688126948131",
+      "japanese": "浦安",
+      "reading": "うらやす",
+      "meaning": "浦安：在千叶县西北部，面临东京湾，是东京的卫星城市。东京迪斯尼乐园在此。",
+      "meaningSource": "浦安：在千叶县西北部，面临东京湾，是东京的卫星城市。东京迪斯尼乐园在此。",
+      "audio": "audio/c11a56a3c13abb1ea5cc70a3157cb49fa111b28b9a65de3189390ea08e60ec7b.mp3",
+      "sourceAudio": "https://sample.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC12%E8%AF%BE_%E3%81%94%E8%BF%B7%E6%83%91%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%81%9F/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/078_%E6%B5%A6%E5%AE%89.mp3"
+    }
+  ]
+}

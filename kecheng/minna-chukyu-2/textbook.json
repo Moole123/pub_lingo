@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 3,
+  "id": "minna-chukyu-2",
+  "title": "大家的日语 中级2",
+  "category": "标准日本语",
+  "description": "",
+  "cover": "",
+  "totalLessons": 12,
+  "lessons": [
+    {
+      "id": "minna-chukyu-2:lesson-13",
+      "number": 13,
+      "title": "勘違いしてることってよくありますよね",
+      "path": "lessons/lesson-13.json"
+    },
+    {
+      "id": "minna-chukyu-2:lesson-14",
+      "number": 14,
+      "title": "謎の美女と宇宙の旅に出るっていう話",
+      "path": "lessons/lesson-14.json"
+    },
+    {
+      "id": "minna-chukyu-2:lesson-15",
+      "number": 15,
+      "title": "イルワンさんの右に出る人はいないということです",
+      "path": "lessons/lesson-15.json"
+    },
+    {
+      "id": "minna-chukyu-2:lesson-16",
+      "number": 16,
+      "title": "不幸中の幸いだよ",
+      "path": "lessons/lesson-16.json"
+    },
+    {
+      "id": "minna-chukyu-2:lesson-17",
+      "number": 17,
+      "title": "もうお兄ちゃんだね",
+      "path": "lessons/lesson-17.json"
+    },
+    {
+      "id": "minna-chukyu-2:lesson-18",
+      "number": 18,
+      "title": "あなたこそ、あの本の山はいったい何なの！",
+      "path": "lessons/lesson-18.json"
+    },
+    {
+      "id": "minna-chukyu-2:lesson-19",
+      "number": 19,
+      "title": "ちょっと自慢話になりますが",
+      "path": "lessons/lesson-19.json"
+    },
+    {
+      "id": "minna-chukyu-2:lesson-20",
+      "number": 20,
+      "title": "なぜ、日本で相撲を取ろうと思われたのですか",
+      "path": "lessons/lesson-20.json"
+    },
+    {
+      "id": "minna-chukyu-2:lesson-21",
+      "number": 21,
+      "title": "データに基づいてお話ししたいと思います",
+      "path": "lessons/lesson-21.json"
+    },
+    {
+      "id": "minna-chukyu-2:lesson-22",
+      "number": 22,
+      "title": "賛成！",
+      "path": "lessons/lesson-22.json"
+    },
+    {
+      "id": "minna-chukyu-2:lesson-23",
+      "number": 23,
+      "title": "一人の地球市民として",
+      "path": "lessons/lesson-23.json"
+    },
+    {
+      "id": "minna-chukyu-2:lesson-24",
+      "number": 24,
+      "title": "好奇心と忍耐力はだれにも負けないつもりです",
+      "path": "lessons/lesson-24.json"
+    }
+  ]
+}

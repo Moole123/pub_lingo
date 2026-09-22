@@ -1,0 +1,1178 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-16T13:03:29.032Z",
+  "source": {
+    "apkg": "书籍原文/皆の日本語中級 1/__1_.apkg",
+    "sha256": "fdbe2b358c0f3b4b63bb808d892505d7808591d039bfd552eb8ca44f552d24e3",
+    "deck": "大家的日语 中级1 词汇::11",
+    "noteType": "大家的日语 词汇"
+  },
+  "lesson": {
+    "id": "lesson-11",
+    "number": 11,
+    "title": "お勧めのところ、ありませんか"
+  },
+  "count": 116,
+  "items": [
+    {
+      "index": 1,
+      "noteId": "1688126899880",
+      "japanese": "ますます",
+      "reading": "",
+      "meaning": "更加、越发",
+      "meaningSource": "更加、越发",
+      "audio": "audio/37703fc3088f1916a83ac4fda58b360ddf69b813ef1fc35eb6678279f1f7d2d5.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/001_%E3%81%BE%E3%81%99%E3%81%BE%E3%81%99.mp3"
+    },
+    {
+      "index": 2,
+      "noteId": "1688126899881",
+      "japanese": "企業",
+      "reading": "きぎょう",
+      "meaning": "企业",
+      "meaningSource": "企业",
+      "audio": "audio/3ffa6233115182ab0f06dfd6d49b2e1a0c7857e0a054d75cd029ba43711e1472.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/002_%E4%BC%81%E6%A5%AD.mp3"
+    },
+    {
+      "index": 3,
+      "noteId": "1688126899882",
+      "japanese": "今後",
+      "reading": "こんご",
+      "meaning": "今后",
+      "meaningSource": "今后",
+      "audio": "audio/047b2b720b7b17bfa8dba7b30b2ed135d0c4a8126a7eecb2c9cf14628f2056e3.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/003_%E4%BB%8A%E5%BE%8C.mp3"
+    },
+    {
+      "index": 4,
+      "noteId": "1688126899883",
+      "japanese": "方言",
+      "reading": "ほうげん",
+      "meaning": "方言",
+      "meaningSource": "方言",
+      "audio": "audio/ff16ed56bcea75f5b28495dd0cf2d9d0da1f855bb844bfe810369f8ea59020f7.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/004_%E6%96%B9%E8%A8%80.mp3"
+    },
+    {
+      "index": 5,
+      "noteId": "1688126899884",
+      "japanese": "普及する",
+      "reading": "ふきゅうする",
+      "meaning": "普及",
+      "meaningSource": "普及",
+      "audio": "audio/9e00c9195bab1e7c2947fbe9c31b6b92f8b2aa3b49380b25f639c2ab35b83b73.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/005_%E6%99%AE%E5%8F%8A%E3%81%99%E3%82%8B.mp3"
+    },
+    {
+      "index": 6,
+      "noteId": "1688126899888",
+      "japanese": "建つ",
+      "reading": "たつ",
+      "meaning": "修起、建起",
+      "meaningSource": "修起、建起",
+      "audio": "audio/cd1f17e629d45e54d49b53a4de7186fd43e2a4e0f69336f4f715c74c98474306.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/006_%E5%BB%BA%E3%81%A4.mp3"
+    },
+    {
+      "index": 7,
+      "noteId": "1688126899889",
+      "japanese": "大家族",
+      "reading": "だいかぞく",
+      "meaning": "大家庭",
+      "meaningSource": "大家庭",
+      "audio": "audio/2bc7eba07cdf532c75813af3936b5707f20bd7fb426ab5a48dbdd13da1133624.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/007_%E5%A4%A7%E5%AE%B6%E6%97%8F.mp3"
+    },
+    {
+      "index": 8,
+      "noteId": "1688126899890",
+      "japanese": "大〜",
+      "reading": "だい〜",
+      "meaning": "大〜",
+      "meaningSource": "大〜",
+      "audio": "audio/fa75bcb9ba1190e82a4db8583cfa81f3e9f8299d2fb76364dd113aa7f386179b.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/008_%E5%A4%A7%E3%80%9C.mp3"
+    },
+    {
+      "index": 9,
+      "noteId": "1688126899891",
+      "japanese": "パックツアー",
+      "reading": "",
+      "meaning": "只包交通、住宿的半自由式旅行团；包干旅行",
+      "meaningSource": "只包交通、住宿的半自由式旅行团；包干旅行",
+      "audio": "audio/a3daab5bdd03675c9463e4bd1492a648a6a65c5c4517d79be04b1c645c2d9179.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/009_%E3%83%91%E3%83%83%E3%82%AF%E3%83%84%E3%82%A2%E3%83%BC.mp3"
+    },
+    {
+      "index": 10,
+      "noteId": "1688126899892",
+      "japanese": "個人",
+      "reading": "こじん",
+      "meaning": "个人",
+      "meaningSource": "个人",
+      "audio": "audio/90550cc9fd241dd4ee548cca9f1e326d7a3a0aa1f4fd6f0cc3bf7b9fde85cb2b.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/010_%E5%80%8B%E4%BA%BA.mp3"
+    },
+    {
+      "index": 11,
+      "noteId": "1688126899893",
+      "japanese": "いかにも",
+      "reading": "",
+      "meaning": "实在、真的",
+      "meaningSource": "实在、真的",
+      "audio": "audio/760f260a13e027be45c36a722fc4281aa8d048bfd4f3ecdebc5d1522b87ad18e.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/011_%E3%81%84%E3%81%8B%E3%81%AB%E3%82%82.mp3"
+    },
+    {
+      "index": 12,
+      "noteId": "1688126899894",
+      "japanese": "入学式",
+      "reading": "にゅうがくしき",
+      "meaning": "入学典礼",
+      "meaningSource": "入学典礼",
+      "audio": "audio/4bc56afb3e78aa61e77f3fbcfeb707bdb310468975ab0fcf74dd84b913a531d8.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/012_%E5%85%A5%E5%AD%A6%E5%BC%8F.mp3"
+    },
+    {
+      "index": 13,
+      "noteId": "1688126899895",
+      "japanese": "派手［な］",
+      "reading": "はで［な］",
+      "meaning": "华丽［的］、花哨［的］",
+      "meaningSource": "华丽［的］、花哨［的］",
+      "audio": "audio/ad2c01696b1ff0b30f5e605a19cf696216c65985971e0378fb59dcc74c7d1458.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/013_%E6%B4%BE%E6%89%8B%EF%BC%BB%E3%81%AA%EF%BC%BD.mp3"
+    },
+    {
+      "index": 14,
+      "noteId": "1688126899896",
+      "japanese": "元気",
+      "reading": "げんき",
+      "meaning": "精神、干劲",
+      "meaningSource": "精神、干劲",
+      "audio": "audio/f58c811250a31b8505c3ee3bb93b1ed57b61139ce824a81a2423285a0c722be2.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/014_%E5%85%83%E6%B0%97.mp3"
+    },
+    {
+      "index": 15,
+      "noteId": "1688126899897",
+      "japanese": "出す［元気を〜］",
+      "reading": "だす［げんきを〜］",
+      "meaning": "打起［打起精神］",
+      "meaningSource": "打起［打起精神］",
+      "audio": "audio/73835f770d3f1af5e710ed7fcc4de6c7affd0e385661702673901eda99ca5879.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/015_%E5%87%BA%E3%81%99%EF%BC%BB%E5%85%83%E6%B0%97%E3%82%92%E3%80%9C%EF%BC%BD.mp3"
+    },
+    {
+      "index": 16,
+      "noteId": "1688126899898",
+      "japanese": "広告",
+      "reading": "こうこく",
+      "meaning": "广告",
+      "meaningSource": "广告",
+      "audio": "audio/4699c8fc6f0d61798f2ab8d58887815057f9ad4865abed5aaa3de0e0a590b44d.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/016_%E5%BA%83%E5%91%8A.mp3"
+    },
+    {
+      "index": 17,
+      "noteId": "1688126899899",
+      "japanese": "美容院",
+      "reading": "びよういん",
+      "meaning": "美容院",
+      "meaningSource": "美容院",
+      "audio": "audio/1f833fbba43323f2d0528bc448df4edd598100a51963c97366ad546960ed571b.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/017_%E7%BE%8E%E5%AE%B9%E9%99%A2.mp3"
+    },
+    {
+      "index": 18,
+      "noteId": "1688126899900",
+      "japanese": "車いす",
+      "reading": "くるまいす",
+      "meaning": "轮椅",
+      "meaningSource": "轮椅",
+      "audio": "audio/6bf7058729014ced19c7e194084ac706b911680db85ce6291d64ed372200933b.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/018_%E8%BB%8A%E3%81%84%E3%81%99.mp3"
+    },
+    {
+      "index": 19,
+      "noteId": "1688126899901",
+      "japanese": "寄付する［病院に車いすを〜］",
+      "reading": "きふする［びょういんにくるまいすを〜］",
+      "meaning": "捐赠［向医院捐赠轮椅］",
+      "meaningSource": "捐赠［向医院捐赠轮椅］",
+      "audio": "audio/12936b6ef09f30527a2d16e201702d6daa175e3813e9c3aac7b92aa33297a7fb.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/019_%E5%AF%84%E4%BB%98%E3%81%99%E3%82%8B%EF%BC%BB%E7%97%85%E9%99%A2%E3%81%AB%E8%BB%8A%E3%81%84%E3%81%99%E3%82%92%E3%80%9C%EF%BC%BD.mp3"
+    },
+    {
+      "index": 20,
+      "noteId": "1688126899902",
+      "japanese": "グレー",
+      "reading": "",
+      "meaning": "灰色",
+      "meaningSource": "灰色",
+      "audio": "audio/55af835787276555691cd69d979a5bfe3afd9ab1cbc9b249101b45feb249a581.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/020_%E3%82%B0%E3%83%AC%E3%83%BC.mp3"
+    },
+    {
+      "index": 21,
+      "noteId": "1688126899903",
+      "japanese": "地味［な］",
+      "reading": "じみ［な］",
+      "meaning": "朴素［的］、素雅［的］",
+      "meaningSource": "朴素［的］、素雅［的］",
+      "audio": "audio/b815e38f1861fe0fa2273eb47de4ab4c5276ebdb0fc5a1df39094a57329767d5.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/021_%E5%9C%B0%E5%91%B3%EF%BC%BB%E3%81%AA%EF%BC%BD.mp3"
+    },
+    {
+      "index": 22,
+      "noteId": "1688126899904",
+      "japanese": "原爆",
+      "reading": "げんばく",
+      "meaning": "原子弹",
+      "meaningSource": "原子弹",
+      "audio": "audio/df841d26f7f508c06adc9c0137911a31f43082fcbfe1c536953b5eac95446e3a.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/022_%E5%8E%9F%E7%88%86.mp3"
+    },
+    {
+      "index": 23,
+      "noteId": "1688126899905",
+      "japanese": "ただひとつ",
+      "reading": "",
+      "meaning": "唯一",
+      "meaningSource": "唯一",
+      "audio": "audio/801f97d0e2ee6bd44aac7d2f8ac246b5cb7cc2ea8b9b81da3a4a92089f5c71f8.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/023_%E3%81%9F%E3%81%A0%E3%81%B2%E3%81%A8%E3%81%A4.mp3"
+    },
+    {
+      "index": 24,
+      "noteId": "1688126899906",
+      "japanese": "恐ろしさ",
+      "reading": "おそろしさ",
+      "meaning": "可怕、恐怖",
+      "meaningSource": "可怕、恐怖",
+      "audio": "audio/3a6a6cf8ab7bc2301c0214e312dac19b7f7f82f3654066d410bf5b8c7ed142ba.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/024_%E6%81%90%E3%82%8D%E3%81%97%E3%81%95.mp3"
+    },
+    {
+      "index": 25,
+      "noteId": "1688126899907",
+      "japanese": "ダイナマイト",
+      "reading": "",
+      "meaning": "黄色炸药",
+      "meaningSource": "黄色炸药",
+      "audio": "audio/61fed2036a3463980ec3ab5d76e23eddbd7c74e8b941a7eca198cc3d612e9cba.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/025_%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9E%E3%82%A4%E3%83%88.mp3"
+    },
+    {
+      "index": 26,
+      "noteId": "1688126899908",
+      "japanese": "自宅",
+      "reading": "じたく",
+      "meaning": "自己的住宅",
+      "meaningSource": "自己的住宅",
+      "audio": "audio/337ed63b94197af9ccd0b54e427201bfedd24c46024bd1bf70b03e5949f06f20.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/026_%E8%87%AA%E5%AE%85.mp3"
+    },
+    {
+      "index": 27,
+      "noteId": "1688126899909",
+      "japanese": "あわてる",
+      "reading": "",
+      "meaning": "慌张",
+      "meaningSource": "慌张",
+      "audio": "audio/730b7af878b187a8f74445056b08e62770848ff6acb5727303cc943cf31f0818.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/027_%E3%81%82%E3%82%8F%E3%81%A6%E3%82%8B.mp3"
+    },
+    {
+      "index": 28,
+      "noteId": "1688126899910",
+      "japanese": "落ち着く",
+      "reading": "おちつく",
+      "meaning": "沉着、镇静",
+      "meaningSource": "沉着、镇静",
+      "audio": "audio/e7640253b1b85ad6abb9649caa4b69aaf2729ac56b90a3bddafa24616db8ba8a.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/028_%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%8F.mp3"
+    },
+    {
+      "index": 29,
+      "noteId": "1688126899911",
+      "japanese": "行動する",
+      "reading": "こうどうする",
+      "meaning": "行动",
+      "meaningSource": "行动",
+      "audio": "audio/8689f849bb485c9f5eb0473e2ea7ed3ca994da100217f5f0a76027c2746b030c.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/029_%E8%A1%8C%E5%8B%95%E3%81%99%E3%82%8B.mp3"
+    },
+    {
+      "index": 30,
+      "noteId": "1688126899912",
+      "japanese": "のんびりする",
+      "reading": "",
+      "meaning": "悠闲自在",
+      "meaningSource": "悠闲自在",
+      "audio": "audio/e455361e46a2e443a9e57f2ea5fac3ae7af4694ff7b85152ec66f338b9b5087b.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/030_%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A%E3%81%99%E3%82%8B.mp3"
+    },
+    {
+      "index": 31,
+      "noteId": "1688126899913",
+      "japanese": "シューズ",
+      "reading": "",
+      "meaning": "鞋",
+      "meaningSource": "鞋",
+      "audio": "audio/0f08080f633796dd6fda64ccf0eaecfdb0b62f0b9ae33996460aec420cde4768.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/031_%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA.mp3"
+    },
+    {
+      "index": 32,
+      "noteId": "1688126899914",
+      "japanese": "つながる",
+      "reading": "",
+      "meaning": "接通\n［電話が〜］\n［でんわが〜］\n［接通电话］",
+      "meaningSource": "接通<br>［電話が〜］<br>［でんわが〜］<br>［接通电话］",
+      "audio": "audio/4ae1eccd7ee534b2a8e72b65ad8554a6b42a42b51142f42fa5cdf59a27837c09.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/032_%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8B.mp3"
+    },
+    {
+      "index": 33,
+      "noteId": "1688126899915",
+      "japanese": "遺跡",
+      "reading": "いせき",
+      "meaning": "遗迹、古迹",
+      "meaningSource": "遗迹、古迹",
+      "audio": "audio/5f8a5b8ff2a8ce8c11961079446e5852ad826372275e6f6b4c832b2ddc0bfb01.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/033_%E9%81%BA%E8%B7%A1.mp3"
+    },
+    {
+      "index": 34,
+      "noteId": "1688126899916",
+      "japanese": "発掘",
+      "reading": "はっくつ",
+      "meaning": "发掘、挖掘",
+      "meaningSource": "发掘、挖掘",
+      "audio": "audio/2db7b1922501e1ff05aacf8674019277bb73d7a1bce95107c77b57e6c6b7e9ad.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/034_%E7%99%BA%E6%8E%98.mp3"
+    },
+    {
+      "index": 35,
+      "noteId": "1688126899917",
+      "japanese": "これまでに",
+      "reading": "",
+      "meaning": "至今",
+      "meaningSource": "至今",
+      "audio": "audio/2a417e250591d0d02eb2d443903786efb487bc9ab69a910843da19ca71d344f4.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/035_%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AB.mp3"
+    },
+    {
+      "index": 36,
+      "noteId": "1688126899918",
+      "japanese": "南極",
+      "reading": "なんきょく",
+      "meaning": "南极",
+      "meaningSource": "南极",
+      "audio": "audio/d2e9f93e7d69585d283cb55e42b292c0e33f2a3ba37b9849e0f561551899031a.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/036_%E5%8D%97%E6%A5%B5.mp3"
+    },
+    {
+      "index": 37,
+      "noteId": "1688126899919",
+      "japanese": "探検",
+      "reading": "たんけん",
+      "meaning": "探险",
+      "meaningSource": "探险",
+      "audio": "audio/21dff422150b7a0173dd9fcb4edd8ed064a6a45e4413cf00575cabd26617aae7.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/037_%E6%8E%A2%E6%A4%9C.mp3"
+    },
+    {
+      "index": 38,
+      "noteId": "1688126899920",
+      "japanese": "世界遺産",
+      "reading": "せかいいさん",
+      "meaning": "世界遗产",
+      "meaningSource": "世界遗产",
+      "audio": "audio/acbe6c8fcff7b0ad2b20c12dbe0a41c079a46b2a663c6d654b44d29044103138.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/038_%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3.mp3"
+    },
+    {
+      "index": 39,
+      "noteId": "1688126899921",
+      "japanese": "価値",
+      "reading": "かち",
+      "meaning": "价值",
+      "meaningSource": "价值",
+      "audio": "audio/1a4eb7a6b82f56f09b34679b9c2ea3a5e8ad8bc0cf926143e85836d03a8e5ce2.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/039_%E4%BE%A1%E5%80%A4.mp3"
+    },
+    {
+      "index": 40,
+      "noteId": "1688126899922",
+      "japanese": "やっぱり",
+      "reading": "",
+      "meaning": "仍然、还是（是「やはり」的口语说法）",
+      "meaningSource": "仍然、还是（是「やはり」的口语说法）",
+      "audio": "audio/ac92d518fda2bb062006a48b821d401beade861484952f13c2131928c3c57170.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/040_%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A.mp3"
+    },
+    {
+      "index": 41,
+      "noteId": "1688126899923",
+      "japanese": "流氷",
+      "reading": "りゅうひょう",
+      "meaning": "浮冰（特指冬天从北方漂到北海道海面的浮冰）",
+      "meaningSource": "浮冰（特指冬天从北方漂到北海道海面的浮冰）",
+      "audio": "audio/0d8abc6e77f5ba7bc66d466600bae07cff87bb4d91939ddfcdc822819cb743ad.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/041_%E6%B5%81%E6%B0%B7.mp3"
+    },
+    {
+      "index": 42,
+      "noteId": "1688126899924",
+      "japanese": "自由行動",
+      "reading": "じゅうこうどう",
+      "meaning": "自由行动",
+      "meaningSource": "自由行动",
+      "audio": "audio/b33e1ba4fc29484358268380ee6f7dd9a08ad19909d1f3b7ca7c1bf7ee20744f.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/042_%E8%87%AA%E7%94%B1%E8%A1%8C%E5%8B%95.mp3"
+    },
+    {
+      "index": 43,
+      "noteId": "1688126899925",
+      "japanese": "提案する",
+      "reading": "ていあんする",
+      "meaning": "提议、提出",
+      "meaningSource": "提议、提出",
+      "audio": "audio/8bdecb93be4698c896d2511ffb09a50ff3bdd84fda7fe5515438cf137f5e9b90.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/043_%E6%8F%90%E6%A1%88%E3%81%99%E3%82%8B.mp3"
+    },
+    {
+      "index": 44,
+      "noteId": "1688126899926",
+      "japanese": "軽く",
+      "reading": "かるく",
+      "meaning": "稍微地\n［〜体操する］\n［〜たいそうする］\n［稍微地做一下操］",
+      "meaningSource": "稍微地<br>［〜体操する］<br>［〜たいそうする］<br>［稍微地做一下操］",
+      "audio": "audio/84d48d877b54f2a37da88e7dd103dc821a8e758e93d786a65388b793b0a9b6e3.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/044_%E8%BB%BD%E3%81%8F.mp3"
+    },
+    {
+      "index": 45,
+      "noteId": "1688126899927",
+      "japanese": "乗り物",
+      "reading": "のりもの",
+      "meaning": "交通工具",
+      "meaningSource": "交通工具",
+      "audio": "audio/598fc36ce05d7183a83ebf82a88eef8f09c1d6949842ba70d9324e2b2a748ced.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/045_%E4%B9%97%E3%82%8A%E7%89%A9.mp3"
+    },
+    {
+      "index": 46,
+      "noteId": "1688126899928",
+      "japanese": "酔う［乗り物に〜］",
+      "reading": "よう［のりものに〜］",
+      "meaning": "晕［晕车、船等］",
+      "meaningSource": "晕［晕车、船等］",
+      "audio": "audio/19ca3489d7eac9103ed83162c5ee55f76294e1d05a3e8b9c90017eb9ccb19e2b.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/046_%E9%85%94%E3%81%86%EF%BC%BB%E4%B9%97%E3%82%8A%E7%89%A9%E3%81%AB%E3%80%9C%EF%BC%BD.mp3"
+    },
+    {
+      "index": 47,
+      "noteId": "1688126899929",
+      "japanese": "コメント",
+      "reading": "",
+      "meaning": "提建议、发言",
+      "meaningSource": "提建议、发言",
+      "audio": "audio/c87728f94e4ae1098a5d60b746578b7b774c9a4565427cd0cd81aec29fec870d.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/047_%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88.mp3"
+    },
+    {
+      "index": 48,
+      "noteId": "1688126899930",
+      "japanese": "さらに",
+      "reading": "",
+      "meaning": "更加、进一步",
+      "meaningSource": "更加、进一步",
+      "audio": "audio/26dd0095bb96e62deb11c47efb538bae02bff09315a5b3194c0d955abeb59942.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/048_%E3%81%95%E3%82%89%E3%81%AB.mp3"
+    },
+    {
+      "index": 49,
+      "noteId": "1688126899931",
+      "japanese": "仮装",
+      "reading": "かそう",
+      "meaning": "化装（舞会）",
+      "meaningSource": "化装（舞会）",
+      "audio": "audio/cffd581b6b2f0324bd3c616d3c484f2caea6153bbea04cfd3f72e4430783a975.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/049_%E4%BB%AE%E8%A3%85.mp3"
+    },
+    {
+      "index": 50,
+      "noteId": "1688126899932",
+      "japanese": "染める",
+      "reading": "そめる",
+      "meaning": "染色",
+      "meaningSource": "染色",
+      "audio": "audio/1694bac18f41f6156aab068e09d37974f1ff3e0e64769e118066687355a7a4ea.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/050_%E6%9F%93%E3%82%81%E3%82%8B.mp3"
+    },
+    {
+      "index": 51,
+      "noteId": "1688126899933",
+      "japanese": "黄金",
+      "reading": "おうごん",
+      "meaning": "黄金",
+      "meaningSource": "黄金",
+      "audio": "audio/e0dd0d9474af958f28aaaa738044ecc3853762cb3e61fe959ce21b1600a72889.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/051_%E9%BB%84%E9%87%91.mp3"
+    },
+    {
+      "index": 52,
+      "noteId": "1688126899934",
+      "japanese": "伝説",
+      "reading": "でんせつ",
+      "meaning": "传说",
+      "meaningSource": "传说",
+      "audio": "audio/186b6715ee743618010485cd5335304f7716c5e0e243de957d109e3984373734.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/052_%E4%BC%9D%E8%AA%AC.mp3"
+    },
+    {
+      "index": 53,
+      "noteId": "1688126899935",
+      "japanese": "いくつか",
+      "reading": "",
+      "meaning": "好几个、多个",
+      "meaningSource": "好几个、多个",
+      "audio": "audio/e41dcd6b8f8341560f3d2ba157d437f821192df3476db82d8ac8bc7c9c7936d6.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/053_%E3%81%84%E3%81%8F%E3%81%A4%E3%81%8B.mp3"
+    },
+    {
+      "index": 54,
+      "noteId": "1688126899936",
+      "japanese": "屋根",
+      "reading": "やね",
+      "meaning": "屋顶",
+      "meaningSource": "屋顶",
+      "audio": "audio/39c151fb6caab0317cc676d3295ef4d766370f3bb919d50aae625543ee11a2ec.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/054_%E5%B1%8B%E6%A0%B9.mp3"
+    },
+    {
+      "index": 55,
+      "noteId": "1688126899937",
+      "japanese": "農作物",
+      "reading": "のうさくぶつ",
+      "meaning": "农产品",
+      "meaningSource": "农产品",
+      "audio": "audio/ed3cb828aa2eaf11fa29222b0b49ab64f1f00d3182ebcf644d47514f75579528.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/055_%E8%BE%B2%E4%BD%9C%E7%89%A9.mp3"
+    },
+    {
+      "index": 56,
+      "noteId": "1688126899938",
+      "japanese": "金銀",
+      "reading": "きんぎん",
+      "meaning": "金银",
+      "meaningSource": "金银",
+      "audio": "audio/928175f8b16cc467979d92ece57d8c753dea3d5a310b91d573430836097c2756.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/056_%E9%87%91%E9%8A%80.mp3"
+    },
+    {
+      "index": 57,
+      "noteId": "1688126899939",
+      "japanese": "治める",
+      "reading": "おさめる",
+      "meaning": "治理",
+      "meaningSource": "治理",
+      "audio": "audio/0475942c4d61197c99a4d3528a962310eac32a715fb2d04b1113e356e146ba12.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/057_%E6%B2%BB%E3%82%81%E3%82%8B.mp3"
+    },
+    {
+      "index": 58,
+      "noteId": "1688126899940",
+      "japanese": "掌",
+      "reading": "てのひら",
+      "meaning": "手掌",
+      "meaningSource": "手掌",
+      "audio": "audio/7284179f50cbde9ecb5c8fe1c34cdda7349a15466b6fbb844b758430c02c677c.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/058_%E6%8E%8C.mp3"
+    },
+    {
+      "index": 59,
+      "noteId": "1688126899941",
+      "japanese": "後半",
+      "reading": "こうはん",
+      "meaning": "后半期",
+      "meaningSource": "后半期",
+      "audio": "audio/a7098607354449c3619697722d565646c231067843dcf141e66311830fda953b.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/059_%E5%BE%8C%E5%8D%8A.mp3"
+    },
+    {
+      "index": 60,
+      "noteId": "1688126899942",
+      "japanese": "くぎ",
+      "reading": "",
+      "meaning": "钉子",
+      "meaningSource": "钉子",
+      "audio": "audio/5e03486b480b952557186a84e556dec958b4e486b1ee03803ddffda4dacc7f03.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/060_%E3%81%8F%E3%81%8E.mp3"
+    },
+    {
+      "index": 61,
+      "noteId": "1688126899943",
+      "japanese": "村人",
+      "reading": "むらびと",
+      "meaning": "村民",
+      "meaningSource": "村民",
+      "audio": "audio/38d14389d3a613d4b966230360e0a45478a7eb94957594ee4697790d541b3d7e.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/061_%E6%9D%91%E4%BA%BA.mp3"
+    },
+    {
+      "index": 62,
+      "noteId": "1688126899944",
+      "japanese": "かける［費用を〜］",
+      "reading": "［ひようを〜］",
+      "meaning": "花费［花钱］",
+      "meaningSource": "花费［花钱］",
+      "audio": "audio/dd4219873ae997f8c343ca9c9dcd5bdc80c8694de9716f240490c7dc59d08b25.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/062_%E3%81%8B%E3%81%91%E3%82%8B%EF%BC%BB%E8%B2%BB%E7%94%A8%E3%82%92%E3%80%9C%EF%BC%BD.mp3"
+    },
+    {
+      "index": 63,
+      "noteId": "1688126899945",
+      "japanese": "向き",
+      "reading": "むき",
+      "meaning": "朝向、（风）向",
+      "meaningSource": "朝向、（风）向",
+      "audio": "audio/b3eee5a40dd58a2590c874cb62d37d5946273ddd08d4524339c5029afdc3ddf6.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/063_%E5%90%91%E3%81%8D.mp3"
+    },
+    {
+      "index": 64,
+      "noteId": "1688126899946",
+      "japanese": "抵抗",
+      "reading": "ていこう",
+      "meaning": "阻力",
+      "meaningSource": "阻力",
+      "audio": "audio/f9c0b303d4d055b0e252c6ceaa2fa652eeea300f899ae07c7e14dd0e6ec94b43.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/064_%E6%8A%B5%E6%8A%97.mp3"
+    },
+    {
+      "index": 65,
+      "noteId": "1688126899947",
+      "japanese": "〜層",
+      "reading": "〜そう",
+      "meaning": "〜层",
+      "meaningSource": "〜层",
+      "audio": "audio/0aa6aba30a0fd62c626765687982d7be365ff3c13a0ba2dc43850c7e8df1ebf0.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/065_%E3%80%9C%E5%B1%A4.mp3"
+    },
+    {
+      "index": 66,
+      "noteId": "1688126899948",
+      "japanese": "蚕",
+      "reading": "かいこ",
+      "meaning": "蚕",
+      "meaningSource": "蚕",
+      "audio": "audio/1f21738a73507439592504ac1b663c41e8f1e8ead1374705710ab319616b43c4.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/066_%E8%9A%95.mp3"
+    },
+    {
+      "index": 67,
+      "noteId": "1688126899949",
+      "japanese": "火薬",
+      "reading": "かやく",
+      "meaning": "火药",
+      "meaningSource": "火药",
+      "audio": "audio/c833727ebbc16cbae528ac491edb7e1fa707b5b191b6c1f64a15df77abd51401.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/067_%E7%81%AB%E8%96%AC.mp3"
+    },
+    {
+      "index": 68,
+      "noteId": "1688126899950",
+      "japanese": "製造する",
+      "reading": "せいぞうする",
+      "meaning": "制造、生产",
+      "meaningSource": "制造、生产",
+      "audio": "audio/0ff146ce9632e4a39a5dcfafaec07dc1ad8a854efe02db7ef2e974b8421cd0ff.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/068_%E8%A3%BD%E9%80%A0%E3%81%99%E3%82%8B.mp3"
+    },
+    {
+      "index": 69,
+      "noteId": "1688126899951",
+      "japanese": "送る［生活を〜］",
+      "reading": "おくる［せいかつを〜］",
+      "meaning": "过、度过［过日子］",
+      "meaningSource": "过、度过［过日子］",
+      "audio": "audio/82c56de3e2977a40a3ea80f121be36a9e1ee92d0fc1135405647308e99aaacc4.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/069_%E9%80%81%E3%82%8B%EF%BC%BB%E7%94%9F%E6%B4%BB%E3%82%92%E3%80%9C%EF%BC%BD.mp3"
+    },
+    {
+      "index": 70,
+      "noteId": "1688126899952",
+      "japanese": "家内産業",
+      "reading": "かないさんぎょう",
+      "meaning": "家庭作坊、个体经营",
+      "meaningSource": "家庭作坊、个体经营",
+      "audio": "audio/9efc636f4068b38bee849e431c59ab402daff226709f8780916c9e0ae8ee59e3.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/070_%E5%AE%B6%E5%86%85%E7%94%A3%E6%A5%AD.mp3"
+    },
+    {
+      "index": 71,
+      "noteId": "1688126899953",
+      "japanese": "年貢",
+      "reading": "ねんぐ",
+      "meaning": "地租、租子",
+      "meaningSource": "地租、租子",
+      "audio": "audio/5e19190a11488df167f9a1eafbc2768cef74ab6d8a3b209b348e8bb3e3ef1db5.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/071_%E5%B9%B4%E8%B2%A2.mp3"
+    },
+    {
+      "index": 72,
+      "noteId": "1688126899954",
+      "japanese": "期待する",
+      "reading": "きたいする",
+      "meaning": "指望、期待",
+      "meaningSource": "指望、期待",
+      "audio": "audio/ecb0ce4932cdac3bbaf3e9299fff9e2e1ede3a0af229ee380493fb40e36c0a01.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/072_%E6%9C%9F%E5%BE%85%E3%81%99%E3%82%8B.mp3"
+    },
+    {
+      "index": 73,
+      "noteId": "1688126899955",
+      "japanese": "地",
+      "reading": "ち",
+      "meaning": "地方、（当）地",
+      "meaningSource": "地方、（当）地",
+      "audio": "audio/3430aaa9b60614f0b306e7c7ede9a6ae82f2b2c488b9196122f17da20b1a03c1.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/073_%E5%9C%B0.mp3"
+    },
+    {
+      "index": 74,
+      "noteId": "1688126899956",
+      "japanese": "前半",
+      "reading": "ぜんはん",
+      "meaning": "前半期",
+      "meaningSource": "前半期",
+      "audio": "audio/9d95f4b17f858fd4d5a9752d6c381afa21cfeb420935f855a2e036bd2e3f90cd.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/074_%E5%89%8D%E5%8D%8A.mp3"
+    },
+    {
+      "index": 75,
+      "noteId": "1688126899957",
+      "japanese": "やってくる",
+      "reading": "",
+      "meaning": "来到、赶来",
+      "meaningSource": "来到、赶来",
+      "audio": "audio/d8a875bade7cd0f6ee30f070e15e09073699e9de8385b3cc131f25600ba7682e.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/075_%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B.mp3"
+    },
+    {
+      "index": 76,
+      "noteId": "1688126899958",
+      "japanese": "住み着く",
+      "reading": "すみつく",
+      "meaning": "定居",
+      "meaningSource": "定居",
+      "audio": "audio/99803d332427e2a050bb53e5b3dbb8f777aaa0b0512edb17b534b3e639edcc4c.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/076_%E4%BD%8F%E3%81%BF%E7%9D%80%E3%81%8F.mp3"
+    },
+    {
+      "index": 77,
+      "noteId": "1688126899959",
+      "japanese": "一族",
+      "reading": "いちぞく",
+      "meaning": "同族、家族",
+      "meaningSource": "同族、家族",
+      "audio": "audio/3ad3a2f15cf609a82900be38f6c062170638679cd146e11a9e608ee78551a467.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/077_%E4%B8%80%E6%97%8F.mp3"
+    },
+    {
+      "index": 78,
+      "noteId": "1688126899960",
+      "japanese": "〜城",
+      "reading": "〜じょう",
+      "meaning": "〜城\n［帰雲〜］\n［かえりくも〜］\n［归云城］",
+      "meaningSource": "〜城<br>［帰雲〜］<br>［かえりくも〜］<br>［归云城］",
+      "audio": "audio/bc0ff622539b54f17c3c4d855747b1f92878945b10257e2d5a919d031127a4dc.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/078_%E3%80%9C%E5%9F%8E.mp3"
+    },
+    {
+      "index": 79,
+      "noteId": "1688126899961",
+      "japanese": "城",
+      "reading": "しろ",
+      "meaning": "城堡",
+      "meaningSource": "城堡",
+      "audio": "audio/ea98348c18fc96e817dea9deabf4a49223a7d40260400391ad8914ce0702be59.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/079_%E5%9F%8E.mp3"
+    },
+    {
+      "index": 80,
+      "noteId": "1688126899962",
+      "japanese": "掘り当てる",
+      "reading": "ほりあてる",
+      "meaning": "挖到",
+      "meaningSource": "挖到",
+      "audio": "audio/1edf441a303e3ecfd3d5f2e610faaa56e59abe5913b6a33d2c21a214c47b47da.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/080_%E6%8E%98%E3%82%8A%E5%BD%93%E3%81%A6%E3%82%8B.mp3"
+    },
+    {
+      "index": 81,
+      "noteId": "1688126899963",
+      "japanese": "権力者",
+      "reading": "けんりょくしゃ",
+      "meaning": "当权者",
+      "meaningSource": "当权者",
+      "audio": "audio/2edb0c78df37024623023de60ebde58b0b09b768e49721bfbfaa7509fdb8d097.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/081_%E6%A8%A9%E5%8A%9B%E8%80%85.mp3"
+    },
+    {
+      "index": 82,
+      "noteId": "1688126899964",
+      "japanese": "飢きん",
+      "reading": "ききん",
+      "meaning": "饥荒、灾荒",
+      "meaningSource": "饥荒、灾荒",
+      "audio": "audio/9b0dc83d5e5452ac5727758167765f8a62761c00fe6f5300b6ebdb2d7f8b2b23.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/082_%E9%A3%A2%E3%81%8D%E3%82%93.mp3"
+    },
+    {
+      "index": 83,
+      "noteId": "1688126899965",
+      "japanese": "〜軒",
+      "reading": "〜けん",
+      "meaning": "〜栋（房屋）、〜家（商店等）",
+      "meaningSource": "〜栋（房屋）、〜家（商店等）",
+      "audio": "audio/68f3bd9cc9344f944781172c9d7baae50ddb9d7bf3972d680b1bbcce7309ea80.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/083_%E3%80%9C%E8%BB%92.mp3"
+    },
+    {
+      "index": 84,
+      "noteId": "1688126899966",
+      "japanese": "数百人",
+      "reading": "すうひゃくにん",
+      "meaning": "好几百人",
+      "meaningSource": "好几百人",
+      "audio": "audio/96f345c4889b93288b7984995547d83e0eaca9f901e081e151ab2f2b92ad13b1.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/084_%E6%95%B0%E7%99%BE%E4%BA%BA.mp3"
+    },
+    {
+      "index": 85,
+      "noteId": "1688126899967",
+      "japanese": "数十人",
+      "reading": "すうじゅうにん",
+      "meaning": "几十人",
+      "meaningSource": "几十人",
+      "audio": "audio/5dc18c5262073f7449f80592b50b689e5bc7a599ebf6fdfbbe47442c419ca9e5.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/085_%E6%95%B0%E5%8D%81%E4%BA%BA.mp3"
+    },
+    {
+      "index": 86,
+      "noteId": "1688126899968",
+      "japanese": "数千人",
+      "reading": "すうせんにん",
+      "meaning": "几千人",
+      "meaningSource": "几千人",
+      "audio": "audio/1a115984919f946372f69f9fcae4aaeb4f92eee9b2301920e7dec43a78567b43.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/086_%E6%95%B0%E5%8D%83%E4%BA%BA.mp3"
+    },
+    {
+      "index": 87,
+      "noteId": "1688126899969",
+      "japanese": "一人残らず",
+      "reading": "ひとりのこらず",
+      "meaning": "一个人都不剩",
+      "meaningSource": "一个人都不剩",
+      "audio": "audio/4dbe65152d1fd4945888445ed808b1ca432dc1410b3118263caf203a14b56316.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/087_%E4%B8%80%E4%BA%BA%E6%AE%8B%E3%82%89%E3%81%9A.mp3"
+    },
+    {
+      "index": 88,
+      "noteId": "1688126899970",
+      "japanese": "消える",
+      "reading": "きえる",
+      "meaning": "消失",
+      "meaningSource": "消失",
+      "audio": "audio/99df35c198c900dc668d60089e085e61cfd8a7b6c0b150eecd6160dc9acb607a.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/088_%E6%B6%88%E3%81%88%E3%82%8B.mp3"
+    },
+    {
+      "index": 89,
+      "noteId": "1688126899971",
+      "japanese": "保管する",
+      "reading": "ほかんする",
+      "meaning": "存放",
+      "meaningSource": "存放",
+      "audio": "audio/30edeac9940b1a7f094eef719a1db5f43a0778d519fefbf0000c73abc475cfcb.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/089_%E4%BF%9D%E7%AE%A1%E3%81%99%E3%82%8B.mp3"
+    },
+    {
+      "index": 90,
+      "noteId": "1688126899972",
+      "japanese": "兆",
+      "reading": "ちょう",
+      "meaning": "兆",
+      "meaningSource": "兆",
+      "audio": "audio/557a5dab50b71da59dabfebedf1cd61ea6b537e8a6151e0e77132240c3f99bbf.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/090_%E5%85%86.mp3"
+    },
+    {
+      "index": 91,
+      "noteId": "1688126899973",
+      "japanese": "分ける",
+      "reading": "わける",
+      "meaning": "分隔、分开\n［いくつかに〜］\n［分隔成几间、分成几个］",
+      "meaningSource": "分隔、分开<br>［いくつかに〜］<br>［分隔成几间、分成几个］",
+      "audio": "audio/6ec3946b2a84fd80bb1ce382d6935d0c8bc972f2e6904c8c955c582f095765dc.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/091_%E5%88%86%E3%81%91%E3%82%8B.mp3"
+    },
+    {
+      "index": 92,
+      "noteId": "1688126899974",
+      "japanese": "積もる［雪が〜］",
+      "reading": "つもる［ゆきが〜］",
+      "meaning": "堆积［积雪］",
+      "meaningSource": "堆积［积雪］",
+      "audio": "audio/de652ee246d70a36da827c900fe5205f1e6055206630b7fee2d1cee2ffce9798.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/092_%E7%A9%8D%E3%82%82%E3%82%8B%EF%BC%BB%E9%9B%AA%E3%81%8C%E3%80%9C%EF%BC%BD.mp3"
+    },
+    {
+      "index": 93,
+      "noteId": "1688126899975",
+      "japanese": "気候",
+      "reading": "きこう",
+      "meaning": "天气、气候",
+      "meaningSource": "天气、气候",
+      "audio": "audio/b24628c1e6400315458748e707618201884a86d0c300df5d44174bf1183e6b0b.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/093_%E6%B0%97%E5%80%99.mp3"
+    },
+    {
+      "index": 94,
+      "noteId": "1688126899976",
+      "japanese": "観光案内",
+      "reading": "かんこうあんない",
+      "meaning": "导游",
+      "meaningSource": "导游",
+      "audio": "audio/26f84d4b5568e9f1093a3cbbed04f0c2a3e0528032ed9084c9215805d9652b06.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/094_%E8%A6%B3%E5%85%89%E6%A1%88%E5%86%85.mp3"
+    },
+    {
+      "index": 95,
+      "noteId": "1688126899977",
+      "japanese": "観光地",
+      "reading": "かんこうち",
+      "meaning": "旅游点、景点",
+      "meaningSource": "旅游点、景点",
+      "audio": "audio/9bd447b6294382b9a0057489bd24144e19927d6f25f3158e26d7570afa1453dd.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/095_%E8%A6%B3%E5%85%89%E5%9C%B0.mp3"
+    },
+    {
+      "index": 96,
+      "noteId": "1688126899978",
+      "japanese": "〜っていうのはどうですか。",
+      "reading": "",
+      "meaning": "你看〜怎么样？\n当问到自己的意见时，以一种无论对方采纳与否都行的轻松语气提出建议。",
+      "meaningSource": "你看〜怎么样？<br>当问到自己的意见时，以一种无论对方采纳与否都行的轻松语气提出建议。",
+      "audio": "audio/778e0c84782a8bb794c2d838b4272e032f68e2df1f1e354a59b4f006c55a9576.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/096_%E3%80%9C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%86%E3%81%AE%E3%81%AF%E3%81%A9%E3%81%86%E3%81%A7%E3%81%99%E3%81%8B%E3%80%82.mp3"
+    },
+    {
+      "index": 97,
+      "noteId": "1688126899979",
+      "japanese": "それも悪くないですね。",
+      "reading": "",
+      "meaning": "倒也不错，那也行。",
+      "meaningSource": "倒也不错，那也行。",
+      "audio": "audio/0b8a852fae575986a406a2c3905f6d00fd197997f87eea7333347a53c9295dfa.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/097_%E3%81%9D%E3%82%8C%E3%82%82%E6%82%AA%E3%81%8F%E3%81%AA%E3%81%84%E3%81%A7%E3%81%99%E3%81%AD%E3%80%82.mp3"
+    },
+    {
+      "index": 98,
+      "noteId": "1688126899980",
+      "japanese": "それもそうですね。",
+      "reading": "",
+      "meaning": "那倒也是。",
+      "meaningSource": "那倒也是。",
+      "audio": "audio/ff3d3a0cf1345031f2d705d237afe6816364fc799a5bae19a2cdb66d2980e7a1.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/098_%E3%81%9D%E3%82%8C%E3%82%82%E3%81%9D%E3%81%86%E3%81%A7%E3%81%99%E3%81%AD%E3%80%82.mp3"
+    },
+    {
+      "index": 99,
+      "noteId": "1688126899981",
+      "japanese": "けど、……。",
+      "reading": "",
+      "meaning": "不过，可是。",
+      "meaningSource": "不过，可是。",
+      "audio": "audio/b562436b472aef4bf048f67e66d1bd4ac734dbcc4bab3aa52e6c4b4a2af13d43.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/099_%E3%81%91%E3%81%A9%E3%80%81%E2%80%A6%E2%80%A6%E3%80%82.mp3"
+    },
+    {
+      "index": 100,
+      "noteId": "1688126899982",
+      "japanese": "それも悪くないですけど……",
+      "reading": "",
+      "meaning": "那也行，不过……\n先认可对方的意见，然后说出自己的想法。",
+      "meaningSource": "那也行，不过……<br>先认可对方的意见，然后说出自己的想法。",
+      "audio": "audio/9e9c24b4eeb8469d60d6451a4d2f8bfa933f3e4da2f99096c66ed743be8fd4d9.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/100_%E3%81%9D%E3%82%8C%E3%82%82%E6%82%AA%E3%81%8F%E3%81%AA%E3%81%84%E3%81%A7%E3%81%99%E3%81%91%E3%81%A9%E2%80%A6%E2%80%A6.mp3"
+    },
+    {
+      "index": 101,
+      "noteId": "1688126899983",
+      "japanese": "ノーベル",
+      "reading": "",
+      "meaning": "诺贝尔：Alfred Bernhard Nobel（阿尔弗雷德・贝恩哈德・诺贝尔）（1833〜1896）瑞典的科学家，炸药的发明者。",
+      "meaningSource": "诺贝尔：Alfred Bernhard Nobel（阿尔弗雷德・贝恩哈德・诺贝尔）（1833〜1896）瑞典的科学家，炸药的发明者。",
+      "audio": "audio/e54cfd6a11ab05e6c91214cb169d1bd6ef93ec0f8beedeea48e69d3e1757a913.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/101_%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB.mp3"
+    },
+    {
+      "index": 102,
+      "noteId": "1688126899984",
+      "japanese": "モーツァルト",
+      "reading": "",
+      "meaning": "莫扎特：Wolfgang Amadeus Mozart（1756〜1791）奥地利作曲家，一生创作了歌剧《费加罗的婚礼》等 600 多部音乐作品。",
+      "meaningSource": "莫扎特：Wolfgang Amadeus Mozart（1756〜1791）奥地利作曲家，一生创作了歌剧《费加罗的婚礼》等 600 多部音乐作品。",
+      "audio": "audio/7e675f2fef7c9826a4b9ef4932b457fe38a26dd05707c3f761caa9d3858cf1ae.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/102_%E3%83%A2%E3%83%BC%E3%83%84%E3%82%A1%E3%83%AB%E3%83%88.mp3"
+    },
+    {
+      "index": 103,
+      "noteId": "1688126899985",
+      "japanese": "首里城",
+      "reading": "しゅりじょう",
+      "meaning": "首里古城：位于冲绳县首里市的古琉球王朝的城堡。",
+      "meaningSource": "首里古城：位于冲绳县首里市的古琉球王朝的城堡。",
+      "audio": "audio/41068a43664e0bc8e828e3d84bfb63143a7e887553b0edb256fe0861d5d92d10.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/103_%E9%A6%96%E9%87%8C%E5%9F%8E.mp3"
+    },
+    {
+      "index": 104,
+      "noteId": "1688126899986",
+      "japanese": "雪祭り",
+      "reading": "ゆきまつり",
+      "meaning": "雪节：在北海道札幌市举行的旅游观光活动，以巨大的雪的塑像和灯饰树而著名。",
+      "meaningSource": "雪节：在北海道札幌市举行的旅游观光活动，以巨大的雪的塑像和灯饰树而著名。",
+      "audio": "audio/d351709c0b5ac793470007b23a0d559fc6461dca836783d5d5f07069e897dc66.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/104_%E9%9B%AA%E7%A5%AD%E3%82%8A.mp3"
+    },
+    {
+      "index": 105,
+      "noteId": "1688126899987",
+      "japanese": "白川郷",
+      "reading": "しらかわごう",
+      "meaning": "白川乡：位于岐阜县庄川河上游的山村，古时候一个大家庭的很多成员都共同生活在合掌式屋顶的大屋里。",
+      "meaningSource": "白川乡：位于岐阜县庄川河上游的山村，古时候一个大家庭的很多成员都共同生活在合掌式屋顶的大屋里。",
+      "audio": "audio/fbc6775896349cbc3b006c17d8e0e147b533c6d53c880cd626a70e8637f0be30.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/105_%E7%99%BD%E5%B7%9D%E9%83%B7.mp3"
+    },
+    {
+      "index": 106,
+      "noteId": "1688126899988",
+      "japanese": "白神山地",
+      "reading": "しらかみさんち",
+      "meaning": "白神山区：位于青森县与秋田县之间、以白神峰为中心的山区，有世界最大规模的山毛榉的原始森林。",
+      "meaningSource": "白神山区：位于青森县与秋田县之间、以白神峰为中心的山区，有世界最大规模的山毛榉的原始森林。",
+      "audio": "audio/38a96f0dda1536be1b396a6d4cb11de51f0553fcf8e5e94bd162241f1a3d908c.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/106_%E7%99%BD%E7%A5%9E%E5%B1%B1%E5%9C%B0.mp3"
+    },
+    {
+      "index": 107,
+      "noteId": "1688126899989",
+      "japanese": "厳島神社",
+      "reading": "いつくしまじんじゃ",
+      "meaning": "严岛神社：位于广岛县宫岛町，神殿建于海中，很美，神社内有很多古迹和国宝级文物。",
+      "meaningSource": "严岛神社：位于广岛县宫岛町，神殿建于海中，很美，神社内有很多古迹和国宝级文物。",
+      "audio": "audio/d5fac6efb27dd885a8f84c6fa253cb28588315643c410f112b2ee179be47dd92.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/107_%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE.mp3"
+    },
+    {
+      "index": 108,
+      "noteId": "1688126899990",
+      "japanese": "屋久島",
+      "reading": "やくしま",
+      "meaning": "屋久岛：该岛属于鹿儿岛县的大限群岛，拥有树龄千年以上的、号称“屋久杉”的自然林。",
+      "meaningSource": "屋久岛：该岛属于鹿儿岛县的大限群岛，拥有树龄千年以上的、号称“屋久杉”的自然林。",
+      "audio": "audio/92a388f3b8df60305cb7a7a128147a4f76a441b7fcf54ef7b5da1058f91eb8a4.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/108_%E5%B1%8B%E4%B9%85%E5%B3%B6.mp3"
+    },
+    {
+      "index": 109,
+      "noteId": "1688126899991",
+      "japanese": "知床",
+      "reading": "しれとこ",
+      "meaning": "知床半岛：位于北海道东北端，是伸向鄂霍次克海的狭长形半岛，海岸线多为断崖绝壁。",
+      "meaningSource": "知床半岛：位于北海道东北端，是伸向鄂霍次克海的狭长形半岛，海岸线多为断崖绝壁。",
+      "audio": "audio/6c389227e1982a25ed73af802b539586493e1d467e7267b285f7c2bcaa5b4062.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/109_%E7%9F%A5%E5%BA%8A.mp3"
+    },
+    {
+      "index": 110,
+      "noteId": "1688126899992",
+      "japanese": "原爆ドーム",
+      "reading": "げんばくドーム",
+      "meaning": "原爆圆顶馆：该馆是被 1945 年 8 月 6 日在广岛投下的原子弹所破坏的，它的残迹已经成为人类惨祸的象征。",
+      "meaningSource": "原爆圆顶馆：该馆是被 1945 年 8 月 6 日在广岛投下的原子弹所破坏的，它的残迹已经成为人类惨祸的象征。",
+      "audio": "audio/9a50f56059d336353399480c4f1e669395911abd16cf070ba36095fe5f3d00d0.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/110_%E5%8E%9F%E7%88%86%E3%83%89%E3%83%BC%E3%83%A0.mp3"
+    },
+    {
+      "index": 111,
+      "noteId": "1688126899993",
+      "japanese": "合掌造り",
+      "reading": "がっしょうづくり",
+      "meaning": "合掌式屋顶的建筑：为一个大家庭的居住和养蚕而修建的飞弹地区的普通民家，为了对付大雪，屋顶的坡度很陡。",
+      "meaningSource": "合掌式屋顶的建筑：为一个大家庭的居住和养蚕而修建的飞弹地区的普通民家，为了对付大雪，屋顶的坡度很陡。",
+      "audio": "audio/49fb7ea2d2f5896fea147868e6247dcc05d6d6034e3ac9ac4270d3d85061d252.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/111_%E5%90%88%E6%8E%8C%E9%80%A0%E3%82%8A.mp3"
+    },
+    {
+      "index": 112,
+      "noteId": "1688126899994",
+      "japanese": "江戸時代",
+      "reading": "えどじだい",
+      "meaning": "江户时代：（1603〜1867）也称作德川时代，因当时的幕府设在江户（现在的东京）而得名。",
+      "meaningSource": "江户时代：（1603〜1867）也称作德川时代，因当时的幕府设在江户（现在的东京）而得名。",
+      "audio": "audio/b08ab99f73970964e67e9a02bbd3f565a0b4e4d4a986333f9058a7dd415ee8cc.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/112_%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3.mp3"
+    },
+    {
+      "index": 113,
+      "noteId": "1688126899995",
+      "japanese": "内ヶ嶋為氏",
+      "reading": "うちがしまためうじ",
+      "meaning": "内鸿为氏：此人生卒年未详，为室町时代的武将，在白川乡修建了归云城。",
+      "meaningSource": "内鸿为氏：此人生卒年未详，为室町时代的武将，在白川乡修建了归云城。",
+      "audio": "audio/e5df6599f1563953b5808ccb9f41c7345e02fb3c342470404a454b3ec8a22098.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/113_%E5%86%85%E3%83%B6%E5%B6%8B%E7%82%BA%E6%B0%8F.mp3"
+    },
+    {
+      "index": 114,
+      "noteId": "1688126899996",
+      "japanese": "帰雲城",
+      "reading": "かえりくもじょう",
+      "meaning": "归云城：内鸿为氏于 1464 年前后在岐阜县白川乡修建此城，后毁于 1586 年的天正大地震。",
+      "meaningSource": "归云城：内鸿为氏于 1464 年前后在岐阜县白川乡修建此城，后毁于 1586 年的天正大地震。",
+      "audio": "audio/ba9d6d3c9af0849edb62f580128bc69a2fcae560176fbc119bb7d38663d8d990.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/114_%E5%B8%B0%E9%9B%B2%E5%9F%8E.mp3"
+    },
+    {
+      "index": 115,
+      "noteId": "1688126899997",
+      "japanese": "織田信長",
+      "reading": "おだのぶなが",
+      "meaning": "织田信长：（1534〜1582）日本战国安土桃山时代的武将。",
+      "meaningSource": "织田信长：（1534〜1582）日本战国安土桃山时代的武将。",
+      "audio": "audio/bf0a8cfb3d19878769214b9efe8f7825c8a589af645ee01e5f69a12d199f0abc.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/115_%E7%B9%94%E7%94%B0%E4%BF%A1%E9%95%B7.mp3"
+    },
+    {
+      "index": 116,
+      "noteId": "1688717404639",
+      "japanese": "原子爆弾",
+      "reading": "げんしばくだん",
+      "meaning": "原子弹（正式说法）",
+      "meaningSource": "原子弹（正式说法）",
+      "audio": "audio/241f79b3014fbfc1d1b93375bbe8ca7258fae6dd58808aaff418d0f8ee9cb08b.mp3",
+      "sourceAudio": "https://nihongodesk.com/media/6a4d431db6bf68e3/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E8%AF%AD%20%E4%B8%AD%E7%BA%A7%201/%E7%AC%AC11%E8%AF%BE_%E3%81%8A%E5%8B%A7%E3%82%81%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E3%80%81%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/07_Anki%E8%AF%8D%E6%B1%87%E4%B8%8E%E8%AF%BB%E9%9F%B3/%E9%9F%B3%E9%A2%91/116_%E5%8E%9F%E5%AD%90%E7%88%86%E5%BC%BE.mp3"
+    }
+  ]
+}
