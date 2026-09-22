@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 3,
+  "id": "minna-shokyu-1",
+  "title": "大家的日语 初级1",
+  "category": "标准日本语",
+  "description": "",
+  "cover": "",
+  "totalLessons": 25,
+  "lessons": [
+    {
+      "id": "minna-shokyu-1:lesson-01",
+      "number": 1,
+      "title": "初めまして",
+      "path": "lessons/lesson-01.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-02",
+      "number": 2,
+      "title": "これからお世話になります",
+      "path": "lessons/lesson-02.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-03",
+      "number": 3,
+      "title": "これをください",
+      "path": "lessons/lesson-03.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-04",
+      "number": 4,
+      "title": "そちらは何時までですか",
+      "path": "lessons/lesson-04.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-05",
+      "number": 5,
+      "title": "この電車は甲子園へ行きますか",
+      "path": "lessons/lesson-05.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-06",
+      "number": 6,
+      "title": "いっしょに行きませんか",
+      "path": "lessons/lesson-06.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-07",
+      "number": 7,
+      "title": "いらっしゃい",
+      "path": "lessons/lesson-07.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-08",
+      "number": 8,
+      "title": "そろそろ失礼します",
+      "path": "lessons/lesson-08.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-09",
+      "number": 9,
+      "title": "残念ですが",
+      "path": "lessons/lesson-09.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-10",
+      "number": 10,
+      "title": "ナンプラー、ありますか",
+      "path": "lessons/lesson-10.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-11",
+      "number": 11,
+      "title": "これ、お願いします",
+      "path": "lessons/lesson-11.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-12",
+      "number": 12,
+      "title": "祇園祭はどうでしたか",
+      "path": "lessons/lesson-12.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-13",
+      "number": 13,
+      "title": "別々にお願いします",
+      "path": "lessons/lesson-13.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-14",
+      "number": 14,
+      "title": "みどり町までお願いします",
+      "path": "lessons/lesson-14.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-15",
+      "number": 15,
+      "title": "ご家族は？",
+      "path": "lessons/lesson-15.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-16",
+      "number": 16,
+      "title": "使い方を教えてください",
+      "path": "lessons/lesson-16.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-17",
+      "number": 17,
+      "title": "どうしましたか",
+      "path": "lessons/lesson-17.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-18",
+      "number": 18,
+      "title": "趣味は何ですか",
+      "path": "lessons/lesson-18.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-19",
+      "number": 19,
+      "title": "ダイエットはあしたからします",
+      "path": "lessons/lesson-19.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-20",
+      "number": 20,
+      "title": "いっしょに行かない？",
+      "path": "lessons/lesson-20.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-21",
+      "number": 21,
+      "title": "わたしもそう思います",
+      "path": "lessons/lesson-21.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-22",
+      "number": 22,
+      "title": "どんな部屋をお探しですか",
+      "path": "lessons/lesson-22.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-23",
+      "number": 23,
+      "title": "どうやって行きますか",
+      "path": "lessons/lesson-23.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-24",
+      "number": 24,
+      "title": "手伝いに行きましょうか",
+      "path": "lessons/lesson-24.json"
+    },
+    {
+      "id": "minna-shokyu-1:lesson-25",
+      "number": 25,
+      "title": "いろいろお世話になりました",
+      "path": "lessons/lesson-25.json"
+    }
+  ]
+}
