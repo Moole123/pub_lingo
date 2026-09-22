@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 3,
+  "id": "standard-chukyu-1",
+  "title": "新标准日本语 中级上",
+  "category": "标准日本语",
+  "description": "",
+  "cover": "",
+  "totalLessons": 16,
+  "lessons": [
+    {
+      "id": "standard-chukyu-1:lesson-01",
+      "number": 1,
+      "title": "出会い_日本の鉄道",
+      "path": "lessons/lesson-01.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-02",
+      "number": 2,
+      "title": "あいさつ_あいさつの時の礼儀",
+      "path": "lessons/lesson-02.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-03",
+      "number": 3,
+      "title": "顔合わせ_名字",
+      "path": "lessons/lesson-03.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-04",
+      "number": 4,
+      "title": "東京本社_近年サラリーマン事情",
+      "path": "lessons/lesson-04.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-05",
+      "number": 5,
+      "title": "商品紹介_日本語の語彙",
+      "path": "lessons/lesson-05.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-06",
+      "number": 6,
+      "title": "先輩_「はしの文化」さまざま",
+      "path": "lessons/lesson-06.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-07",
+      "number": 7,
+      "title": "打ち合わせ_電子メールの作法",
+      "path": "lessons/lesson-07.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-08",
+      "number": 8,
+      "title": "企画書_カップラーメン",
+      "path": "lessons/lesson-08.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-09",
+      "number": 9,
+      "title": "トラブル_イタリア旅行",
+      "path": "lessons/lesson-09.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-10",
+      "number": 10,
+      "title": "スケジュール_温泉大国、日本",
+      "path": "lessons/lesson-10.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-11",
+      "number": 11,
+      "title": "若者の意識_漫画とアニメ",
+      "path": "lessons/lesson-11.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-12",
+      "number": 12,
+      "title": "最終日_方言と共通語",
+      "path": "lessons/lesson-12.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-13",
+      "number": 13,
+      "title": "スピーチの依頼_日本の人口が減っている",
+      "path": "lessons/lesson-13.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-14",
+      "number": 14,
+      "title": "恩師_日本の就職活動",
+      "path": "lessons/lesson-14.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-15",
+      "number": 15,
+      "title": "同級生_日本レストラン事情",
+      "path": "lessons/lesson-15.json"
+    },
+    {
+      "id": "standard-chukyu-1:lesson-16",
+      "number": 16,
+      "title": "結婚披露宴_変わる結婚式",
+      "path": "lessons/lesson-16.json"
+    }
+  ]
+}
